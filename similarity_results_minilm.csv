@@ -1,0 +1,1420 @@
+Model,Concept,MP Index,Chunk ID,Score
+MiniLM,abrupt climate change,4,1774,0.40612488985061646
+MiniLM,access to modern energy services,5,2081,0.48557859659194946
+MiniLM,access to modern energy services,5,2083,0.4815347194671631
+MiniLM,access to modern energy services,5,2076,0.43510833382606506
+MiniLM,access to modern energy services,5,2082,0.43416962027549744
+MiniLM,adaptation,4,1774,0.5476975440979004
+MiniLM,adaptation,4,1769,0.4765925705432892
+MiniLM,adaptation,4,1815,0.4718804359436035
+MiniLM,adaptation,4,1707,0.4614255130290985
+MiniLM,adaptation,4,1813,0.45444175601005554
+MiniLM,Adaptation Fund,4,1707,0.47669288516044617
+MiniLM,Adaptation Fund,0,36,0.43422839045524597
+MiniLM,Adaptation Fund,4,1774,0.4310433268547058
+MiniLM,Adaptation Fund,0,254,0.4231906831264496
+MiniLM,Adaptation Fund,4,1815,0.4191484749317169
+MiniLM,adaptation behaviour,4,1774,0.6193203926086426
+MiniLM,adaptation behaviour,0,590,0.5205453634262085
+MiniLM,adaptation behaviour,4,1815,0.5173506736755371
+MiniLM,adaptation behaviour,4,1707,0.5041854977607727
+MiniLM,adaptation behaviour,4,1769,0.47866031527519226
+MiniLM,adaptation deficit,4,1774,0.5398190021514893
+MiniLM,adaptation deficit,0,590,0.49834367632865906
+MiniLM,adaptation deficit,4,1769,0.4959958493709564
+MiniLM,adaptation deficit,4,1815,0.4754389524459839
+MiniLM,adaptation deficit,3,1659,0.42773813009262085
+MiniLM,adaptation gap,4,1774,0.6363605856895447
+MiniLM,adaptation gap,4,1815,0.551403284072876
+MiniLM,adaptation gap,4,1769,0.5347653031349182
+MiniLM,adaptation gap,4,1700,0.5343313813209534
+MiniLM,adaptation gap,4,1707,0.5294713377952576
+MiniLM,adaptation needs,4,1774,0.6087615489959717
+MiniLM,adaptation needs,4,1815,0.5744261145591736
+MiniLM,adaptation needs,4,1707,0.5481086373329163
+MiniLM,adaptation needs,4,1813,0.5260950922966003
+MiniLM,adaptation needs,4,1769,0.5244078040122986
+MiniLM,adaptation opportunity,4,1774,0.40699848532676697
+MiniLM,adaptation options,4,1774,0.4821956157684326
+MiniLM,adaptation options,3,1440,0.4260450601577759
+MiniLM,adaptation options,4,1707,0.41990116238594055
+MiniLM,adaptation options,4,1818,0.4133019745349884
+MiniLM,adaptation options,4,1815,0.4122367203235626
+MiniLM,adaptive governance,4,1774,0.6091930270195007
+MiniLM,adaptive governance,4,1707,0.5696997046470642
+MiniLM,adaptive governance,4,1815,0.5144078135490417
+MiniLM,adaptive governance,4,1700,0.5044882893562317
+MiniLM,adaptive governance,4,1813,0.5008176565170288
+MiniLM,added value,4,1774,0.45634007453918457
+MiniLM,added value,3,1659,0.44186633825302124
+MiniLM,added value,0,243,0.43984076380729675
+MiniLM,added value,0,590,0.4276336431503296
+MiniLM,added value,0,32,0.4229370951652527
+MiniLM,additionality,4,1769,0.4096004366874695
+MiniLM,additionality,4,1774,0.40773168206214905
+MiniLM,additionality,4,1815,0.40540605783462524
+MiniLM,additionality,4,1772,0.4003833830356598
+MiniLM,adjustments,4,1769,0.4647151827812195
+MiniLM,adjustments,4,1772,0.4626884460449219
+MiniLM,adjustments,4,1774,0.42852768301963806
+MiniLM,adjustments,4,1815,0.405856192111969
+MiniLM,afforestation,1,812,0.5266523361206055
+MiniLM,afforestation,0,586,0.46599721908569336
+MiniLM,afforestation,0,585,0.4419133961200714
+MiniLM,afforestation,3,1664,0.43890291452407837
+MiniLM,afforestation,0,125,0.4261114299297333
+MiniLM,agricultural and ecological drought,0,244,0.40488162636756897
+MiniLM,"Agriculture, Forestry and Other Land Use",4,1775,0.45477843284606934
+MiniLM,"Agriculture, Forestry and Other Land Use",1,956,0.43729060888290405
+MiniLM,"Agriculture, Forestry and Other Land Use",4,1700,0.43510788679122925
+MiniLM,"Agriculture, Forestry and Other Land Use",0,243,0.42811647057533264
+MiniLM,"Agriculture, Forestry and Other Land Use",4,1774,0.41650038957595825
+MiniLM,agroecology,0,512,0.5390991568565369
+MiniLM,agroecology,0,318,0.5320845246315002
+MiniLM,agroecology,0,69,0.5262261033058167
+MiniLM,agroecology,0,583,0.4996147155761719
+MiniLM,agroecology,0,309,0.4966830611228943
+MiniLM,agroforestry,0,521,0.49921801686286926
+MiniLM,agroforestry,3,1664,0.4955730140209198
+MiniLM,agroforestry,1,812,0.49252188205718994
+MiniLM,agroforestry,0,583,0.4613579511642456
+MiniLM,agroforestry,3,1574,0.46045824885368347
+MiniLM,air pollution,10,2601,0.4091933071613312
+MiniLM,anthropocene,10,2554,0.46547263860702515
+MiniLM,anthropocene,5,1884,0.4508543610572815
+MiniLM,anthropocene,4,1822,0.43863338232040405
+MiniLM,anthropocene,5,1894,0.4262935221195221
+MiniLM,anthropocene,3,1369,0.4229391813278198
+MiniLM,anthropogenic emissions,0,243,0.4123983681201935
+MiniLM,anthropogenic removals,4,1775,0.46725428104400635
+MiniLM,anthropogenic removals,4,1773,0.4384291470050812
+MiniLM,anthropogenic removals,4,1700,0.43441471457481384
+MiniLM,anthropogenic removals,4,1720,0.42120271921157837
+MiniLM,anthropogenic removals,4,1774,0.41876909136772156
+MiniLM,anthropogenic subsidence,2,1104,0.5746259093284607
+MiniLM,anthropogenic subsidence,2,1103,0.5544198751449585
+MiniLM,anthropogenic subsidence,3,1662,0.46850940585136414
+MiniLM,anthropogenic subsidence,4,1808,0.44832342863082886
+MiniLM,anthropogenic subsidence,1,816,0.446618914604187
+MiniLM,artificial ocean upwelling,4,1775,0.46326684951782227
+MiniLM,artificial ocean upwelling,4,1772,0.4580579996109009
+MiniLM,artificial ocean upwelling,4,1700,0.42281976342201233
+MiniLM,artificial ocean upwelling,4,1773,0.4165521562099457
+MiniLM,assets,0,254,0.43922048807144165
+MiniLM,Atlantic Meridional Overturning Circulation,4,1773,0.45154833793640137
+MiniLM,Atlantic Meridional Overturning Circulation,4,1772,0.4384811222553253
+MiniLM,Atlantic Meridional Overturning Circulation,4,1769,0.4336687922477722
+MiniLM,Atlantic Meridional Overturning Circulation,4,1775,0.41208139061927795
+MiniLM,Atlantic Meridional Overturning Circulation,4,1768,0.4096418619155884
+MiniLM,Atlantic Multi-decadal Variability,4,1768,0.4578646123409271
+MiniLM,Atlantic Multi-decadal Variability,4,1769,0.4323487877845764
+MiniLM,Atlantic Multi-decadal Variability,4,1767,0.4164022207260132
+MiniLM,Atlantic Multi-decadal Variability,4,1772,0.40901002287864685
+MiniLM,autonomous adaptation,4,1774,0.559284508228302
+MiniLM,autonomous adaptation,4,1707,0.456153929233551
+MiniLM,autonomous adaptation,4,1815,0.45216354727745056
+MiniLM,autonomous adaptation,0,590,0.4494860768318176
+MiniLM,autonomous adaptation,4,1813,0.44917595386505127
+MiniLM,"Avoid, Shift, Improve",4,1773,0.4682319760322571
+MiniLM,"Avoid, Shift, Improve",4,1774,0.4573049247264862
+MiniLM,"Avoid, Shift, Improve",4,1707,0.4396284818649292
+MiniLM,"Avoid, Shift, Improve",4,1775,0.43039563298225403
+MiniLM,"Avoid, Shift, Improve",5,2077,0.42478668689727783
+MiniLM,behavioural change,4,1774,0.5253292918205261
+MiniLM,behavioural change,5,2077,0.4392329752445221
+MiniLM,behavioural change,4,1815,0.42632022500038147
+MiniLM,behavioural change,4,1707,0.419401079416275
+MiniLM,behavioural change,0,590,0.4190727174282074
+MiniLM,benthos,0,524,0.4234505295753479
+MiniLM,biodiversity hotspots,7,2238,0.4916062653064728
+MiniLM,biodiversity hotspots,0,117,0.4516615867614746
+MiniLM,biodiversity hotspots,4,1794,0.4440958499908447
+MiniLM,biodiversity hotspots,4,1781,0.444033145904541
+MiniLM,biodiversity hotspots,4,1853,0.4377433657646179
+MiniLM,bioenergy,3,1664,0.48840123414993286
+MiniLM,biogeophysical potential,4,1813,0.41541486978530884
+MiniLM,biological  pump,4,1775,0.4094695746898651
+MiniLM,biomass,3,1664,0.5059003829956055
+MiniLM,biomes,0,326,0.42919328808784485
+MiniLM,biomes,0,144,0.4020150899887085
+MiniLM,blue carbon,4,1775,0.588159441947937
+MiniLM,blue carbon,4,1814,0.4758594036102295
+MiniLM,blue carbon,4,1812,0.47335827350616455
+MiniLM,blue carbon,4,1776,0.46660709381103516
+MiniLM,blue carbon,4,1818,0.4208466708660126
+MiniLM,blue infrastructure,0,717,0.4630119800567627
+MiniLM,blue infrastructure,0,245,0.4628128111362457
+MiniLM,blue infrastructure,5,2074,0.4384627938270569
+MiniLM,blue infrastructure,1,859,0.41402268409729004
+MiniLM,blue infrastructure,4,1775,0.41274356842041016
+MiniLM,capacity building,0,259,0.5986135005950928
+MiniLM,capacity building,0,36,0.5372042059898376
+MiniLM,capacity building,0,37,0.5089794397354126
+MiniLM,capacity building,0,256,0.4911574721336365
+MiniLM,capacity building,5,2140,0.4910900890827179
+MiniLM,carbon–climate feedback,4,1775,0.5513847470283508
+MiniLM,carbon–climate feedback,4,1774,0.5320498943328857
+MiniLM,carbon–climate feedback,4,1700,0.5023832321166992
+MiniLM,carbon–climate feedback,4,1773,0.4603598117828369
+MiniLM,carbon–climate feedback,4,1772,0.43988773226737976
+MiniLM,carbon dioxide,4,1775,0.410720556974411
+MiniLM,carbon dioxide,5,2083,0.41009998321533203
+MiniLM,carbon dioxide,4,1700,0.4045315086841583
+MiniLM,carbon dioxide,5,2079,0.4008099138736725
+MiniLM,carbon dioxide  fertilisation,3,1664,0.46483033895492554
+MiniLM,carbon dioxide capture and utilisation,4,1700,0.44992730021476746
+MiniLM,carbon dioxide removal,4,1775,0.4670855402946472
+MiniLM,carbon dioxide removal,4,1700,0.4416157603263855
+MiniLM,carbon dioxide removal,4,1773,0.41978719830513
+MiniLM,carbon feedback,4,1775,0.5391808748245239
+MiniLM,carbon feedback,4,1774,0.5157577991485596
+MiniLM,carbon feedback,4,1700,0.4884941875934601
+MiniLM,carbon feedback,4,1773,0.44796448945999146
+MiniLM,carbon feedback,4,1772,0.4276126027107239
+MiniLM,carbon footprint,5,2079,0.4000800848007202
+MiniLM,carbon neutrality,4,1700,0.4570409059524536
+MiniLM,carbon neutrality,4,1775,0.45334896445274353
+MiniLM,carbon neutrality,4,1773,0.43342503905296326
+MiniLM,carbon neutrality,5,2079,0.422991007566452
+MiniLM,carbon neutrality,4,1781,0.42025378346443176
+MiniLM,carbon sequestration,4,1775,0.42627713084220886
+MiniLM,carbon sequestration,4,1707,0.40706539154052734
+MiniLM,cascading impacts,5,2094,0.49004995822906494
+MiniLM,cascading impacts,5,2059,0.4748378396034241
+MiniLM,cascading impacts,5,2095,0.45903313159942627
+MiniLM,cascading impacts,2,1101,0.4464357793331146
+MiniLM,cascading impacts,4,1773,0.44201478362083435
+MiniLM,catchment,0,717,0.49513134360313416
+MiniLM,catchment,0,591,0.47077757120132446
+MiniLM,catchment,5,2069,0.44109058380126953
+MiniLM,catchment,0,592,0.43645501136779785
+MiniLM,catchment,10,2598,0.4349079430103302
+MiniLM,circular economy,0,438,0.4048226475715637
+MiniLM,cities,3,1433,0.5426412224769592
+MiniLM,cities,5,2082,0.5187584757804871
+MiniLM,cities,5,1902,0.5143384337425232
+MiniLM,cities,5,2002,0.5123962163925171
+MiniLM,cities,3,1440,0.5123116374015808
+MiniLM,citizen science,0,271,0.4566444754600525
+MiniLM,citizen science,0,501,0.4299924373626709
+MiniLM,city region,3,1527,0.5195490717887878
+MiniLM,city region,6,2209,0.4908895790576935
+MiniLM,city region,0,452,0.4859181344509125
+MiniLM,city region,1,800,0.4848036766052246
+MiniLM,city region,8,2326,0.4812786877155304
+MiniLM,climate–carbon cycle feedback,4,1775,0.5407100319862366
+MiniLM,climate–carbon cycle feedback,4,1774,0.5251853466033936
+MiniLM,climate–carbon cycle feedback,4,1700,0.4976900815963745
+MiniLM,climate–carbon cycle feedback,4,1773,0.4664335548877716
+MiniLM,climate–carbon cycle feedback,4,1772,0.43614286184310913
+MiniLM,climate change,4,1774,0.5725918412208557
+MiniLM,climate change,4,1700,0.4553843140602112
+MiniLM,climate change,3,1659,0.44652724266052246
+MiniLM,climate change,4,1813,0.44493600726127625
+MiniLM,climate change,4,1773,0.4444286823272705
+MiniLM,climate change commitment,4,1774,0.5749979019165039
+MiniLM,climate change commitment,4,1815,0.5131581425666809
+MiniLM,climate change commitment,4,1707,0.5037028789520264
+MiniLM,climate change commitment,4,1813,0.4969264268875122
+MiniLM,climate change commitment,4,1769,0.48543959856033325
+MiniLM,climate feedback,4,1774,0.4201931655406952
+MiniLM,climate feedback parameter,4,1774,0.4163057208061218
+MiniLM,climate finance,4,1774,0.47438159584999084
+MiniLM,climate finance,0,254,0.46448081731796265
+MiniLM,climate finance,4,1773,0.45480355620384216
+MiniLM,climate finance,4,1707,0.45238861441612244
+MiniLM,climate finance,0,36,0.4447236657142639
+MiniLM,climate governance,4,1774,0.5784561634063721
+MiniLM,climate governance,4,1707,0.5563176870346069
+MiniLM,climate governance,4,1773,0.5267525315284729
+MiniLM,climate governance,10,2604,0.5095353722572327
+MiniLM,climate governance,4,1775,0.500679075717926
+MiniLM,climate index,4,1769,0.46780961751937866
+MiniLM,climate index,4,1767,0.4506405293941498
+MiniLM,climate index,4,1768,0.446357399225235
+MiniLM,climate index,4,1824,0.41306713223457336
+MiniLM,climate index,5,2059,0.40190234780311584
+MiniLM,climate indicator,4,1774,0.5080981254577637
+MiniLM,climate indicator,3,1659,0.47129037976264954
+MiniLM,climate indicator,10,2605,0.46135804057121277
+MiniLM,climate indicator,5,2077,0.4570384919643402
+MiniLM,climate indicator,0,590,0.44956517219543457
+MiniLM,climate information,4,1774,0.5682222247123718
+MiniLM,climate information,4,1813,0.4848484992980957
+MiniLM,climate information,4,1700,0.4789992868900299
+MiniLM,climate information,4,1773,0.47829484939575195
+MiniLM,climate information,4,1707,0.47780466079711914
+MiniLM,climate justice,4,1707,0.5015314221382141
+MiniLM,climate justice,4,1774,0.50086909532547
+MiniLM,climate justice,4,1773,0.45107901096343994
+MiniLM,climate justice,10,2604,0.4482448697090149
+MiniLM,climate justice,4,1854,0.44158318638801575
+MiniLM,climate literacy,4,1774,0.5992382764816284
+MiniLM,climate literacy,4,1773,0.46952930092811584
+MiniLM,climate literacy,4,1815,0.4567967653274536
+MiniLM,climate literacy,4,1775,0.44895750284194946
+MiniLM,climate literacy,0,590,0.4395478665828705
+MiniLM,climate metrics,4,1774,0.4533218443393707
+MiniLM,climate metrics,4,1772,0.4480251967906952
+MiniLM,climate metrics,4,1775,0.4424777328968048
+MiniLM,climate metrics,4,1767,0.4424205720424652
+MiniLM,climate metrics,4,1700,0.43473902344703674
+MiniLM,climate projection,5,2077,0.4687260389328003
+MiniLM,climate projection,4,1774,0.4223310947418213
+MiniLM,climate projection,5,2058,0.40461844205856323
+MiniLM,climate projection,0,590,0.40013718605041504
+MiniLM,climate refugium,4,1774,0.4083102345466614
+MiniLM,climate resilient development,4,1813,0.5525575876235962
+MiniLM,climate resilient development,4,1707,0.5377893447875977
+MiniLM,climate resilient development,4,1774,0.5322648882865906
+MiniLM,climate resilient development,4,1815,0.5313804149627686
+MiniLM,climate resilient development,4,1773,0.5227663516998291
+MiniLM,climate resilient development pathways,4,1774,0.5884827971458435
+MiniLM,climate resilient development pathways,4,1854,0.5531256794929504
+MiniLM,climate resilient development pathways,4,1815,0.5523684024810791
+MiniLM,climate resilient development pathways,4,1773,0.5496721267700195
+MiniLM,climate resilient development pathways,4,1707,0.5419875979423523
+MiniLM,climate-resilient pathways,4,1774,0.5980785489082336
+MiniLM,climate-resilient pathways,4,1707,0.5646932125091553
+MiniLM,climate-resilient pathways,4,1813,0.5429183840751648
+MiniLM,climate-resilient pathways,4,1773,0.5019276142120361
+MiniLM,climate-resilient pathways,4,1815,0.4916136860847473
+MiniLM,climate response,4,1774,0.45632728934288025
+MiniLM,climate response,4,1813,0.4371872842311859
+MiniLM,climate response,4,1707,0.4057850241661072
+MiniLM,climate response,4,1815,0.40158528089523315
+MiniLM,climate sensitivity,4,1774,0.4775097370147705
+MiniLM,climate sensitivity,4,1772,0.4626655876636505
+MiniLM,climate sensitivity,5,2059,0.43373823165893555
+MiniLM,climate sensitivity,4,1700,0.43169882893562317
+MiniLM,climate sensitivity,4,1773,0.4306023418903351
+MiniLM,climate services,4,1775,0.4713437855243683
+MiniLM,climate services,4,1774,0.46302682161331177
+MiniLM,climate services,5,2077,0.44181039929389954
+MiniLM,climate services,4,1707,0.43850308656692505
+MiniLM,climate services,4,1813,0.4286665618419647
+MiniLM,climate-smart agriculture,7,2243,0.42666223645210266
+MiniLM,climate-smart agriculture,7,2242,0.4251668155193329
+MiniLM,climate-smart agriculture,4,1774,0.4189983606338501
+MiniLM,climate-smart agriculture,0,583,0.41342076659202576
+MiniLM,climate threshold,4,1815,0.46124106645584106
+MiniLM,climate threshold,4,1774,0.45948898792266846
+MiniLM,climate threshold,3,1659,0.4500967860221863
+MiniLM,climate threshold,0,590,0.4470660090446472
+MiniLM,climate threshold,4,1769,0.43594110012054443
+MiniLM,climatic driver,0,590,0.42070528864860535
+MiniLM,climatic driver,4,1774,0.4098810851573944
+MiniLM,climatic driver,5,2077,0.4075421690940857
+MiniLM,climatic impact-driver,0,244,0.4982646107673645
+MiniLM,climatic impact-driver,0,590,0.46540847420692444
+MiniLM,climatic impact-driver,4,1774,0.45605045557022095
+MiniLM,climatic impact-driver,5,2077,0.4536624550819397
+MiniLM,climatic impact-driver,5,2059,0.45028144121170044
+MiniLM,coast,4,1814,0.5510061979293823
+MiniLM,coast,4,1768,0.4612652361392975
+MiniLM,coast,4,1771,0.4546017348766327
+MiniLM,coast,4,1821,0.43545565009117126
+MiniLM,coast,4,1772,0.41592901945114136
+MiniLM,coastal erosion,4,1814,0.5061463713645935
+MiniLM,compatible emissions,4,1775,0.4484528601169586
+MiniLM,compatible emissions,4,1772,0.40928271412849426
+MiniLM,compound risks,5,2093,0.46426236629486084
+MiniLM,compound risks,5,2091,0.4294339716434479
+MiniLM,compound risks,0,722,0.4265769422054291
+MiniLM,compound risks,5,2092,0.4222642779350281
+MiniLM,compound risks,5,2090,0.4139600098133087
+MiniLM,compound weather/climate events,2,1109,0.4908512830734253
+MiniLM,compound weather/climate events,2,1101,0.4855472445487976
+MiniLM,compound weather/climate events,5,2093,0.47889629006385803
+MiniLM,compound weather/climate events,0,722,0.47230666875839233
+MiniLM,compound weather/climate events,0,245,0.45318543910980225
+MiniLM,Conference of the Parties,0,22,0.48161980509757996
+MiniLM,Conference of the Parties,4,1742,0.4328352212905884
+MiniLM,Conference of the Parties,4,1724,0.43143779039382935
+MiniLM,Conference of the Parties,0,211,0.41837215423583984
+MiniLM,Conference of the Parties,0,399,0.41736048460006714
+MiniLM,conservation agriculture,0,583,0.5544980764389038
+MiniLM,conservation agriculture,0,701,0.5015383958816528
+MiniLM,conservation agriculture,1,956,0.49418148398399353
+MiniLM,conservation agriculture,1,811,0.4914836883544922
+MiniLM,conservation agriculture,0,437,0.4911257326602936
+MiniLM,constant emissions commitment,4,1774,0.41223281621932983
+MiniLM,coping capacity,0,259,0.4427843987941742
+MiniLM,cost–benefit analysis,4,1774,0.4812188744544983
+MiniLM,cost–benefit analysis,4,1707,0.4637235105037689
+MiniLM,cost–benefit analysis,3,1440,0.4474172294139862
+MiniLM,cost–benefit analysis,4,1760,0.44517335295677185
+MiniLM,cost–benefit analysis,4,1775,0.4385131299495697
+MiniLM,cost-effectiveness analysis,4,1707,0.5306729078292847
+MiniLM,cost-effectiveness analysis,3,1440,0.48256558179855347
+MiniLM,cost-effectiveness analysis,4,1774,0.4692445397377014
+MiniLM,cost-effectiveness analysis,4,1815,0.4680512845516205
+MiniLM,cost-effectiveness analysis,4,1772,0.45894888043403625
+MiniLM,Coupled Model Intercomparison Project,4,1767,0.41401275992393494
+MiniLM,Coupled Model Intercomparison Project,4,1707,0.4086775779724121
+MiniLM,Coupled Model Intercomparison Project,4,1774,0.40246912837028503
+MiniLM,Coupled Model Intercomparison Project,4,1700,0.4013334810733795
+MiniLM,cultural impacts,0,234,0.5656981468200684
+MiniLM,cultural impacts,0,567,0.5483810305595398
+MiniLM,cultural impacts,0,30,0.5368340611457825
+MiniLM,cultural impacts,0,16,0.5300167798995972
+MiniLM,cultural impacts,4,1794,0.5281859040260315
+MiniLM,Dansgaard-Oeschger events,4,1769,0.44186288118362427
+MiniLM,Dansgaard-Oeschger events,4,1768,0.42577818036079407
+MiniLM,Dansgaard-Oeschger events,4,1772,0.41939041018486023
+MiniLM,Dansgaard-Oeschger events,4,1684,0.41736677289009094
+MiniLM,Dansgaard-Oeschger events,4,1685,0.41403698921203613
+MiniLM,decadal prediction,4,1815,0.4043511748313904
+MiniLM,decarbonisation,5,2079,0.4751187860965729
+MiniLM,decarbonisation,4,1773,0.45711004734039307
+MiniLM,decarbonisation,4,1774,0.42823344469070435
+MiniLM,decarbonisation,4,1775,0.4225623607635498
+MiniLM,deforestation,1,812,0.4963640570640564
+MiniLM,deforestation,0,586,0.4290994107723236
+MiniLM,deforestation,0,430,0.42490336298942566
+MiniLM,deforestation,3,1664,0.4235436022281647
+MiniLM,deforestation,4,1774,0.42229512333869934
+MiniLM,deliberate transformations,0,501,0.49050372838974
+MiniLM,deliberate transformations,0,684,0.43309444189071655
+MiniLM,deliberate transformations,0,423,0.42450517416000366
+MiniLM,deliberate transformations,0,389,0.41835618019104004
+MiniLM,deliberate transformations,0,234,0.41161853075027466
+MiniLM,deliberative governance,0,22,0.4271111488342285
+MiniLM,deliberative governance,0,208,0.4222799837589264
+MiniLM,deliberative governance,0,412,0.4106661379337311
+MiniLM,demand-side measures,5,2077,0.43435138463974
+MiniLM,desertification,3,1664,0.45359912514686584
+MiniLM,detection,5,2143,0.42699292302131653
+MiniLM,detection,0,281,0.41691854596138
+MiniLM,developed/developing countries,9,2518,0.40569934248924255
+MiniLM,developed/developing countries,0,642,0.40365296602249146
+MiniLM,dimensions of integration,4,1774,0.5461872220039368
+MiniLM,dimensions of integration,4,1707,0.5029630661010742
+MiniLM,dimensions of integration,4,1813,0.48838233947753906
+MiniLM,dimensions of integration,4,1773,0.4837858974933624
+MiniLM,dimensions of integration,4,1815,0.4808063805103302
+MiniLM,direct emissions,0,452,0.40539759397506714
+MiniLM,disaster,5,2090,0.5878546237945557
+MiniLM,disaster,2,1101,0.49799591302871704
+MiniLM,disaster,0,245,0.46316632628440857
+MiniLM,disaster,5,2095,0.45895740389823914
+MiniLM,disaster,5,2091,0.45506563782691956
+MiniLM,disaster management,5,2090,0.5577583312988281
+MiniLM,disaster management,2,1173,0.5453452467918396
+MiniLM,disaster management,5,2098,0.4420076906681061
+MiniLM,disaster management,5,2163,0.44155946373939514
+MiniLM,disaster management,2,1116,0.4364742934703827
+MiniLM,disaster risk,2,1101,0.5449807643890381
+MiniLM,disaster risk,5,2095,0.5251188278198242
+MiniLM,disaster risk,5,2090,0.5210902094841003
+MiniLM,disaster risk,5,2093,0.5171888470649719
+MiniLM,disaster risk,0,722,0.5084567666053772
+MiniLM,disaster risk management,2,1173,0.5752806067466736
+MiniLM,disaster risk management,5,2163,0.5084208250045776
+MiniLM,disaster risk management,0,245,0.5043318867683411
+MiniLM,disaster risk management,2,1101,0.5008124709129333
+MiniLM,disaster risk management,2,1172,0.4846988022327423
+MiniLM,disaster risk reduction,2,1173,0.47311121225357056
+MiniLM,disaster risk reduction,0,245,0.46417561173439026
+MiniLM,disaster risk reduction,0,723,0.4580429494380951
+MiniLM,disaster risk reduction,0,722,0.4572112262248993
+MiniLM,disaster risk reduction,0,488,0.44766563177108765
+MiniLM,distributive equity,4,1774,0.49239543080329895
+MiniLM,distributive equity,4,1707,0.45128899812698364
+MiniLM,distributive equity,4,1813,0.4137621223926544
+MiniLM,downscaling,0,590,0.4135185778141022
+MiniLM,drainage,5,2067,0.5517857074737549
+MiniLM,drainage,1,815,0.5069689750671387
+MiniLM,drainage,5,2074,0.4731730818748474
+MiniLM,drainage,1,860,0.455465167760849
+MiniLM,drainage,3,1409,0.4449293911457062
+MiniLM,drought,10,2605,0.5310258865356445
+MiniLM,drought,0,245,0.530942976474762
+MiniLM,drought,5,2086,0.505549430847168
+MiniLM,drought,10,2604,0.492031991481781
+MiniLM,drought,0,591,0.4882320463657379
+MiniLM,early warning systems,4,1826,0.5556024312973022
+MiniLM,early warning systems,4,1783,0.5307517647743225
+MiniLM,early warning systems,4,1827,0.5273802280426025
+MiniLM,early warning systems,4,1816,0.5127443075180054
+MiniLM,early warning systems,4,1819,0.49111050367355347
+MiniLM,earth’s energy budget,4,1774,0.4407578408718109
+MiniLM,earth’s energy budget,5,2077,0.43993598222732544
+MiniLM,earth’s energy budget,3,1663,0.4307224750518799
+MiniLM,earth’s energy budget,4,1813,0.41935306787490845
+MiniLM,earth’s energy budget,4,1773,0.41836366057395935
+MiniLM,earth system feedbacks,4,1774,0.510898768901825
+MiniLM,earth system feedbacks,4,1707,0.426944762468338
+MiniLM,earth system feedbacks,4,1775,0.4207000136375427
+MiniLM,earth system feedbacks,4,1765,0.41412368416786194
+MiniLM,earth system feedbacks,10,2605,0.41408050060272217
+MiniLM,earth system sensitivity,4,1775,0.4186166226863861
+MiniLM,earth system sensitivity,4,1772,0.4176088869571686
+MiniLM,ecosystem,0,144,0.4266670048236847
+MiniLM,ecosystem,0,501,0.4164901077747345
+MiniLM,ecosystem,0,143,0.4057399034500122
+MiniLM,ecosystem-based adaptation,4,1774,0.5775803923606873
+MiniLM,ecosystem-based adaptation,4,1813,0.5198671221733093
+MiniLM,ecosystem-based adaptation,4,1775,0.5159754753112793
+MiniLM,ecosystem-based adaptation,4,1815,0.5066258311271667
+MiniLM,ecosystem-based adaptation,4,1707,0.49785199761390686
+MiniLM,ecosystem health,4,1783,0.45500797033309937
+MiniLM,ecosystem health,4,1854,0.40855661034584045
+MiniLM,ecosystem services,4,1794,0.46739283204078674
+MiniLM,ecosystem services,4,1775,0.45837950706481934
+MiniLM,ecosystem services,4,1720,0.4217258095741272
+MiniLM,ecosystem services,4,1818,0.42108088731765747
+MiniLM,ecosystem services,0,144,0.42090797424316406
+MiniLM,effective equilibrium climate sensitivity,4,1772,0.44309762120246887
+MiniLM,effective equilibrium climate sensitivity,4,1700,0.4176516830921173
+MiniLM,effective equilibrium climate sensitivity,4,1774,0.41698405146598816
+MiniLM,effective equilibrium climate sensitivity,4,1769,0.4060131311416626
+MiniLM,effective equilibrium climate sensitivity,4,1775,0.4031555950641632
+MiniLM,"embodied  [emissions, water, land]",3,1358,0.4786604344844818
+MiniLM,"embodied  [emissions, water, land]",0,243,0.45874306559562683
+MiniLM,"embodied  [emissions, water, land]",0,452,0.43008387088775635
+MiniLM,"embodied  [emissions, water, land]",0,350,0.4262632429599762
+MiniLM,"embodied  [emissions, water, land]",3,1664,0.425464004278183
+MiniLM,emergent constraint,4,1760,0.41600874066352844
+MiniLM,emergent constraint,4,1769,0.4087880253791809
+MiniLM,emergent constraint,4,1774,0.4082675278186798
+MiniLM,Emission and Socio-economic Scenario Ensemble,0,243,0.4207645654678345
+MiniLM,Emission and Socio-economic Scenario Ensemble,3,1440,0.4197348654270172
+MiniLM,emissions scenario,5,2077,0.4818239212036133
+MiniLM,emissions scenario,0,243,0.44975242018699646
+MiniLM,emissions scenario,0,590,0.41245603561401367
+MiniLM,emissions scenario,4,1772,0.409883052110672
+MiniLM,emissions scenario,4,1774,0.40356770157814026
+MiniLM,enabling conditions,0,215,0.4064601957798004
+MiniLM,enabling conditions,0,236,0.40346255898475647
+MiniLM,energy access,5,2083,0.5209224224090576
+MiniLM,energy access,5,2081,0.4835944175720215
+MiniLM,energy access,5,2082,0.4557246267795563
+MiniLM,energy access,5,2076,0.4523170292377472
+MiniLM,energy access,3,1358,0.4398968815803528
+MiniLM,energy balance model,5,2077,0.4427637457847595
+MiniLM,energy balance model,3,1644,0.4189707636833191
+MiniLM,energy balance model,5,2071,0.41026872396469116
+MiniLM,energy balance model,3,1645,0.40761902928352356
+MiniLM,energy budget,3,1664,0.41185393929481506
+MiniLM,energy poverty,3,1645,0.46655189990997314
+MiniLM,energy poverty,3,1646,0.453768789768219
+MiniLM,energy poverty,5,2083,0.4500214755535126
+MiniLM,energy poverty,3,1663,0.4457414150238037
+MiniLM,energy poverty,3,1644,0.4341520667076111
+MiniLM,energy security,4,1706,0.5030375123023987
+MiniLM,energy security,2,1132,0.48436641693115234
+MiniLM,energy security,3,1646,0.47846999764442444
+MiniLM,energy security,2,1172,0.47771838307380676
+MiniLM,energy security,0,423,0.4636881351470947
+MiniLM,energy services,3,1664,0.47158196568489075
+MiniLM,energy services,5,2081,0.4475226104259491
+MiniLM,energy services,5,2077,0.4379817843437195
+MiniLM,energy services,5,2083,0.42883843183517456
+MiniLM,energy services,5,2076,0.4174959063529968
+MiniLM,energy system,3,1664,0.4432407021522522
+MiniLM,enhanced weathering,4,1772,0.4059853255748749
+MiniLM,equilibrium climate sensitivity,4,1700,0.40265077352523804
+MiniLM,equity,4,1774,0.4843066334724426
+MiniLM,equity,4,1707,0.455878883600235
+MiniLM,equity,4,1775,0.4340686798095703
+MiniLM,equity,3,1659,0.42115384340286255
+MiniLM,equity,4,1773,0.40832144021987915
+MiniLM,eudaimonic,0,313,0.41802430152893066
+MiniLM,exposure,3,1359,0.5040900707244873
+MiniLM,exposure,0,33,0.4988420903682709
+MiniLM,exposure,0,70,0.48801955580711365
+MiniLM,exposure,4,1783,0.48671138286590576
+MiniLM,exposure,0,246,0.48158684372901917
+MiniLM,extended concentration pathways,6,2189,0.410678893327713
+MiniLM,extended concentration pathways,4,1828,0.4022383987903595
+MiniLM,extreme climate event,2,1112,0.40026211738586426
+MiniLM,extreme/heavy precipitation event,5,2090,0.43422412872314453
+MiniLM,extreme/heavy precipitation event,2,1112,0.4030517339706421
+MiniLM,extreme sea level,4,1768,0.5192415714263916
+MiniLM,extreme sea level,4,1814,0.5043253898620605
+MiniLM,extreme sea level,4,1808,0.48119041323661804
+MiniLM,extreme sea level,4,1817,0.4788547158241272
+MiniLM,extreme sea level,4,1807,0.4708254337310791
+MiniLM,extreme weather event,2,1109,0.4349955916404724
+MiniLM,extreme weather event,2,1112,0.4216008484363556
+MiniLM,feasibility,3,1440,0.5052847862243652
+MiniLM,feasibility,0,350,0.47940048575401306
+MiniLM,feasibility,8,2327,0.4694184362888336
+MiniLM,feasibility,4,1815,0.46103009581565857
+MiniLM,feasibility,0,453,0.45711109042167664
+MiniLM,fitness-for-purpose,4,1813,0.40956977009773254
+MiniLM,flexibility,3,1644,0.41803792119026184
+MiniLM,flexibility,3,1645,0.4180316627025604
+MiniLM,flexible governance,4,1759,0.43891072273254395
+MiniLM,flexible governance,0,27,0.40546125173568726
+MiniLM,flexible governance,3,1392,0.40509170293807983
+MiniLM,flexible governance,10,2529,0.40072938799858093
+MiniLM,flood,2,1110,0.4749727249145508
+MiniLM,flood,0,245,0.4319673180580139
+MiniLM,flood,3,1409,0.427329957485199
+MiniLM,flood,5,2062,0.414253294467926
+MiniLM,flood,3,1666,0.4141635298728943
+MiniLM,forest,1,812,0.5027987957000732
+MiniLM,forest,0,585,0.4626934826374054
+MiniLM,forest,0,586,0.4592669904232025
+MiniLM,forest,0,354,0.423764705657959
+MiniLM,forest,0,143,0.4062574505805969
+MiniLM,forest degradation,1,812,0.5426711440086365
+MiniLM,forest degradation,0,586,0.5319623351097107
+MiniLM,forest degradation,0,585,0.4714478850364685
+MiniLM,forest degradation,0,125,0.46596723794937134
+MiniLM,forest degradation,0,354,0.45717474818229675
+MiniLM,gender equity,4,1774,0.4736648201942444
+MiniLM,gender equity,4,1775,0.42185530066490173
+MiniLM,geothermal energy,3,1645,0.4337717592716217
+MiniLM,geothermal energy,5,2083,0.4210781157016754
+MiniLM,geothermal energy,3,1663,0.40316566824913025
+MiniLM,Global Environment Facility,4,1760,0.456577330827713
+MiniLM,Global Environment Facility,4,1707,0.45309698581695557
+MiniLM,Global Environment Facility,4,1857,0.44493648409843445
+MiniLM,Global Environment Facility,4,1854,0.4430045485496521
+MiniLM,Global Environment Facility,3,1358,0.4401422142982483
+MiniLM,global carbon budget,4,1775,0.5234955549240112
+MiniLM,global carbon budget,4,1773,0.47512567043304443
+MiniLM,global carbon budget,5,2079,0.44624313712120056
+MiniLM,global carbon budget,4,1700,0.4422163665294647
+MiniLM,global carbon budget,0,243,0.43258291482925415
+MiniLM,global change,4,1774,0.5364035964012146
+MiniLM,global change,4,1700,0.4886557161808014
+MiniLM,global change,4,1775,0.4862315356731415
+MiniLM,global change,4,1707,0.4726848304271698
+MiniLM,global change,4,1813,0.4647747874259949
+MiniLM,global dimming,2,1194,0.4112197160720825
+MiniLM,global energy budget,0,253,0.4524368941783905
+MiniLM,global energy budget,0,35,0.4145427346229553
+MiniLM,global mean sea level  change,4,1768,0.4988785982131958
+MiniLM,global mean sea level  change,4,1772,0.4483129680156708
+MiniLM,global mean sea level  change,4,1775,0.428805947303772
+MiniLM,global mean sea level  change,4,1769,0.41587191820144653
+MiniLM,global mean sea level  change,4,1700,0.4062952697277069
+MiniLM,global mean surface temperature,4,1767,0.40990033745765686
+MiniLM,global warming,4,1768,0.42996957898139954
+MiniLM,global warming potential,4,1772,0.44339993596076965
+MiniLM,global warming potential,4,1760,0.4296293258666992
+MiniLM,global warming potential,4,1773,0.4118919372558594
+MiniLM,governance,0,181,0.48167628049850464
+MiniLM,governance,0,209,0.4666977524757385
+MiniLM,governance,4,1759,0.4597040116786957
+MiniLM,governance,0,419,0.44725528359413147
+MiniLM,governance,0,412,0.44276753067970276
+MiniLM,governance capacity,0,215,0.4542081654071808
+MiniLM,governance capacity,0,36,0.4339490234851837
+MiniLM,governance capacity,0,251,0.428768515586853
+MiniLM,governance capacity,0,493,0.42193859815597534
+MiniLM,governance capacity,0,259,0.4211901128292084
+MiniLM,"gravitational, rotational and deformational  effects",4,1768,0.45820605754852295
+MiniLM,"gravitational, rotational and deformational  effects",2,1103,0.4007907211780548
+MiniLM,grazing land,0,583,0.5910752415657043
+MiniLM,grazing land,0,582,0.4768676459789276
+MiniLM,grazing land,3,1664,0.4641081690788269
+MiniLM,grazing land,1,812,0.4552137553691864
+MiniLM,grazing land,0,465,0.44110575318336487
+MiniLM,Green Climate Fund,4,1707,0.42359665036201477
+MiniLM,Green Climate Fund,4,1798,0.4178333580493927
+MiniLM,Green Climate Fund,4,1774,0.4116128981113434
+MiniLM,Green Climate Fund,4,1766,0.4004404842853546
+MiniLM,green infrastructure,5,2088,0.5864201188087463
+MiniLM,green infrastructure,0,717,0.5481974482536316
+MiniLM,green infrastructure,3,1440,0.5399944186210632
+MiniLM,green infrastructure,3,1664,0.5389349460601807
+MiniLM,green infrastructure,0,243,0.49931153655052185
+MiniLM,grey infrastructure,3,1642,0.42020922899246216
+MiniLM,grey infrastructure,3,1641,0.4125368297100067
+MiniLM,groundwater recharge,1,815,0.4253242313861847
+MiniLM,groundwater recharge,5,2074,0.41915735602378845
+MiniLM,habitability,0,501,0.4812532663345337
+MiniLM,habitability,8,2273,0.4391796290874481
+MiniLM,habitability,0,233,0.4323708713054657
+MiniLM,habitability,4,1778,0.41510677337646484
+MiniLM,habitability,5,1930,0.41431623697280884
+MiniLM,halocline,2,1106,0.409744530916214
+MiniLM,halosteric sea level change,4,1768,0.46133941411972046
+MiniLM,halosteric sea level change,4,1769,0.4149717688560486
+MiniLM,hazard,5,2091,0.5119263529777527
+MiniLM,hazard,5,2090,0.4993290901184082
+MiniLM,hazard,5,2092,0.4892696142196655
+MiniLM,hazard,5,2093,0.46953433752059937
+MiniLM,hazard,0,722,0.46532487869262695
+MiniLM,heavy precipitation event,5,2090,0.4154333174228668
+MiniLM,heinrich event,4,1822,0.4121243953704834
+MiniLM,heinrich event,4,1821,0.4056684970855713
+MiniLM,holocene,4,1768,0.41520941257476807
+MiniLM,human behaviour,4,1774,0.4288727939128876
+MiniLM,human influence on the climate system,4,1774,0.487426221370697
+MiniLM,human influence on the climate system,4,1775,0.4511243999004364
+MiniLM,human mobility,3,1514,0.41318145394325256
+MiniLM,human security,4,1778,0.4191443920135498
+MiniLM,hydroclimate,0,245,0.4902494251728058
+MiniLM,hydroclimate,0,590,0.45372968912124634
+MiniLM,hydroclimate,3,1659,0.4398016631603241
+MiniLM,hydroclimate,5,2085,0.4376400113105774
+MiniLM,hydroclimate,4,1774,0.43689849972724915
+MiniLM,hydrological cycle,0,487,0.4214358627796173
+MiniLM,hydrological cycle,0,245,0.41546690464019775
+MiniLM,hydrological drought,5,2073,0.5296087861061096
+MiniLM,hydrological drought,0,591,0.4807414710521698
+MiniLM,hydrological drought,5,2086,0.4768998324871063
+MiniLM,hydrological drought,10,2605,0.47256436944007874
+MiniLM,hydrological drought,5,2067,0.4686487317085266
+MiniLM,hydropower,3,1663,0.45918890833854675
+MiniLM,hydropower,0,717,0.44621601700782776
+MiniLM,hydropower,8,2267,0.4324089586734772
+MiniLM,hydropower,0,485,0.42103421688079834
+MiniLM,hydropower,3,1646,0.41267335414886475
+MiniLM,hydrosphere,0,717,0.4346165657043457
+MiniLM,hyperthermal events,4,1773,0.4015829861164093
+MiniLM,hypoxic,5,2074,0.42726442217826843
+MiniLM,impacts,0,244,0.5271970629692078
+MiniLM,impacts,3,1440,0.5226272940635681
+MiniLM,impacts,0,243,0.5069767832756042
+MiniLM,impacts,0,596,0.4930955469608307
+MiniLM,impacts,2,1101,0.49006205797195435
+MiniLM,incremental adaptation,4,1774,0.5202147364616394
+MiniLM,incremental adaptation,4,1815,0.49592095613479614
+MiniLM,incremental adaptation,4,1769,0.48143303394317627
+MiniLM,incremental adaptation,4,1707,0.4749152362346649
+MiniLM,incremental adaptation,4,1813,0.4503132998943329
+MiniLM,indigenous knowledge,0,501,0.5085943937301636
+MiniLM,indigenous knowledge,4,1837,0.5008031725883484
+MiniLM,indigenous knowledge,1,890,0.4717661142349243
+MiniLM,indigenous knowledge,0,104,0.4673181176185608
+MiniLM,indigenous knowledge,0,363,0.45788609981536865
+MiniLM,indirect emissions,0,452,0.4013940691947937
+MiniLM,indirect land-use change,1,867,0.5098174810409546
+MiniLM,indirect land-use change,3,1664,0.4937077760696411
+MiniLM,indirect land-use change,0,465,0.4681456685066223
+MiniLM,indirect land-use change,0,582,0.4626086950302124
+MiniLM,indirect land-use change,3,1573,0.45819661021232605
+MiniLM,infrastructure,3,1641,0.473053514957428
+MiniLM,infrastructure,3,1642,0.4721149802207947
+MiniLM,infrastructure,0,470,0.45878246426582336
+MiniLM,infrastructure,3,1358,0.45783865451812744
+MiniLM,infrastructure,0,717,0.4529823064804077
+MiniLM,institutional capacity,0,259,0.5715082287788391
+MiniLM,institutional capacity,0,37,0.5267467498779297
+MiniLM,institutional capacity,0,36,0.5116004943847656
+MiniLM,institutional capacity,1,781,0.5064811706542969
+MiniLM,institutional capacity,0,563,0.4826878607273102
+MiniLM,institutions,4,1732,0.4739696979522705
+MiniLM,institutions,0,419,0.4515322744846344
+MiniLM,institutions,0,22,0.44593897461891174
+MiniLM,institutions,4,1759,0.44276681542396545
+MiniLM,institutions,0,563,0.44231218099594116
+MiniLM,integrated assessment,3,1440,0.6455560922622681
+MiniLM,integrated assessment,4,1760,0.5239463448524475
+MiniLM,integrated assessment,0,135,0.5224368572235107
+MiniLM,integrated assessment,0,243,0.5194448232650757
+MiniLM,integrated assessment,3,1351,0.5068110823631287
+MiniLM,integrated assessment model,0,243,0.5524351000785828
+MiniLM,integrated assessment model,4,1707,0.5059735178947449
+MiniLM,integrated assessment model,4,1774,0.5046712160110474
+MiniLM,integrated assessment model,4,1760,0.49764764308929443
+MiniLM,integrated assessment model,3,1440,0.49734506011009216
+MiniLM,integrated assessment scenario ensemble,3,1440,0.43891358375549316
+MiniLM,just transitions,3,1644,0.5085886716842651
+MiniLM,just transitions,4,1773,0.4593483507633209
+MiniLM,just transitions,4,1774,0.45720699429512024
+MiniLM,just transitions,4,1707,0.4279833137989044
+MiniLM,just transitions,0,563,0.4258272349834442
+MiniLM,key climate indicators,4,1774,0.5470881462097168
+MiniLM,key climate indicators,4,1825,0.5089089870452881
+MiniLM,key climate indicators,4,1767,0.5010728240013123
+MiniLM,key climate indicators,4,1815,0.5004205107688904
+MiniLM,key climate indicators,4,1775,0.4924331307411194
+MiniLM,key risk,0,245,0.5579432845115662
+MiniLM,key risk,0,596,0.5382042527198792
+MiniLM,key risk,2,1101,0.5172126889228821
+MiniLM,key risk,0,246,0.5082419514656067
+MiniLM,key risk,0,722,0.5002996325492859
+MiniLM,land,3,1664,0.48111388087272644
+MiniLM,land,7,2238,0.4790312945842743
+MiniLM,land,1,812,0.44843223690986633
+MiniLM,land,1,956,0.431183397769928
+MiniLM,land,0,619,0.4278687834739685
+MiniLM,land cover,3,1664,0.45580166578292847
+MiniLM,land cover,1,956,0.44352206587791443
+MiniLM,land cover,0,583,0.4278206527233124
+MiniLM,land cover,1,812,0.4245446026325226
+MiniLM,land cover,7,2238,0.4155033230781555
+MiniLM,land-cover change,0,690,0.4185274839401245
+MiniLM,land-cover change,4,1774,0.41644051671028137
+MiniLM,land-cover change,0,125,0.41309136152267456
+MiniLM,land-cover change,4,1815,0.4067924916744232
+MiniLM,land-cover change,0,232,0.4060556888580322
+MiniLM,land degradation,0,31,0.47584858536720276
+MiniLM,land degradation,0,234,0.4686974287033081
+MiniLM,land degradation,0,282,0.4513462781906128
+MiniLM,land degradation,1,812,0.44815367460250854
+MiniLM,land degradation,0,691,0.4372583329677582
+MiniLM,land degradation neutrality,0,31,0.5029827356338501
+MiniLM,land degradation neutrality,0,282,0.5000113844871521
+MiniLM,land degradation neutrality,0,354,0.49848252534866333
+MiniLM,land degradation neutrality,4,1854,0.4958968460559845
+MiniLM,land degradation neutrality,1,956,0.49559345841407776
+MiniLM,land management,3,1573,0.5712680816650391
+MiniLM,land management,0,583,0.5646659731864929
+MiniLM,land management,0,465,0.5445052981376648
+MiniLM,land management,0,31,0.5395563840866089
+MiniLM,land management,7,2237,0.5391139984130859
+MiniLM,land management change,0,242,0.5679212212562561
+MiniLM,land management change,0,243,0.5430052876472473
+MiniLM,land management change,0,654,0.5394051671028137
+MiniLM,land management change,7,2237,0.5365996956825256
+MiniLM,land management change,0,31,0.5341933965682983
+MiniLM,land potential,0,31,0.5040302276611328
+MiniLM,land potential,0,654,0.4910087585449219
+MiniLM,land potential,4,1854,0.4890817105770111
+MiniLM,land potential,0,701,0.4851006269454956
+MiniLM,land potential,1,956,0.48435795307159424
+MiniLM,land rehabilitation,0,30,0.6615914106369019
+MiniLM,land rehabilitation,0,432,0.6504666209220886
+MiniLM,land rehabilitation,0,234,0.6493362784385681
+MiniLM,land rehabilitation,0,691,0.6268238425254822
+MiniLM,land rehabilitation,0,567,0.626585066318512
+MiniLM,land restoration,0,432,0.5929812788963318
+MiniLM,land restoration,0,30,0.5777762532234192
+MiniLM,land restoration,0,567,0.5650915503501892
+MiniLM,land restoration,0,234,0.5634152293205261
+MiniLM,land restoration,0,31,0.5621326565742493
+MiniLM,land use,3,1664,0.5135669112205505
+MiniLM,land use,1,956,0.4987095892429352
+MiniLM,land use,3,1573,0.4876725971698761
+MiniLM,land use,0,243,0.48572051525115967
+MiniLM,land use,0,582,0.4844475984573364
+MiniLM,"land use, land-use change and forestry",4,1775,0.5097734332084656
+MiniLM,"land use, land-use change and forestry",0,243,0.5026447176933289
+MiniLM,"land use, land-use change and forestry",4,1774,0.4969578683376312
+MiniLM,"land use, land-use change and forestry",1,956,0.45718368887901306
+MiniLM,"land use, land-use change and forestry",4,1700,0.45487943291664124
+MiniLM,land-use change,0,243,0.49016234278678894
+MiniLM,land-use change,7,2237,0.4638092815876007
+MiniLM,land-use change,0,31,0.45088991522789
+MiniLM,land-use change,0,234,0.4499247074127197
+MiniLM,land-use change,0,567,0.4468284547328949
+MiniLM,land water storage,5,2067,0.5595876574516296
+MiniLM,land water storage,0,245,0.5381547808647156
+MiniLM,land water storage,0,482,0.5125088095664978
+MiniLM,land water storage,10,2605,0.5022947788238525
+MiniLM,land water storage,0,591,0.5015437602996826
+MiniLM,large-scale,4,1768,0.4261901378631592
+MiniLM,large-scale,4,1774,0.41321614384651184
+MiniLM,large-scale,4,1775,0.40351247787475586
+MiniLM,large-scale,4,1769,0.40299347043037415
+MiniLM,large-scale,3,1659,0.40266698598861694
+MiniLM,leakage,0,245,0.4391123056411743
+MiniLM,leakage,1,859,0.4173925518989563
+MiniLM,leakage,0,590,0.40817245841026306
+MiniLM,leakage,3,1659,0.403516948223114
+MiniLM,Least Developed Countries,4,1774,0.43724581599235535
+MiniLM,Least Developed Countries,4,1773,0.42411813139915466
+MiniLM,Least Developed Countries,4,1700,0.42093199491500854
+MiniLM,Least Developed Countries,4,1767,0.41828104853630066
+MiniLM,Least Developed Countries,4,1857,0.40991145372390747
+MiniLM,lifecycle assessment,2,1252,0.4788450300693512
+MiniLM,lifecycle assessment,2,1251,0.4608443081378937
+MiniLM,lifecycle assessment,1,827,0.4417119324207306
+MiniLM,lifecycle assessment,0,281,0.4299355149269104
+MiniLM,lifecycle assessment,10,2581,0.4167785048484802
+MiniLM,local knowledge,0,501,0.5735476016998291
+MiniLM,local knowledge,0,132,0.49373334646224976
+MiniLM,local knowledge,0,84,0.4900694787502289
+MiniLM,local knowledge,8,2307,0.4850822687149048
+MiniLM,local knowledge,0,419,0.47468721866607666
+MiniLM,local sea level change,4,1768,0.4706152081489563
+MiniLM,local sea level change,4,1769,0.4196005165576935
+MiniLM,"Loss and Damage, and losses and damages",4,1774,0.48793575167655945
+MiniLM,"Loss and Damage, and losses and damages",4,1707,0.4586937427520752
+MiniLM,"Loss and Damage, and losses and damages",4,1773,0.4568714201450348
+MiniLM,"Loss and Damage, and losses and damages",4,1813,0.456611692905426
+MiniLM,"Loss and Damage, and losses and damages",5,2059,0.4414680302143097
+MiniLM,Low Elevation Coastal Zones,4,1814,0.4986712336540222
+MiniLM,Low Elevation Coastal Zones,4,1771,0.48654940724372864
+MiniLM,Low Elevation Coastal Zones,5,2068,0.4407844543457031
+MiniLM,Low Elevation Coastal Zones,4,1768,0.42631083726882935
+MiniLM,Low Elevation Coastal Zones,4,1819,0.40925607085227966
+MiniLM,"low-likelihood, high impact outcomes",4,1783,0.4028345048427582
+MiniLM,managed forest,0,586,0.5633915066719055
+MiniLM,managed forest,0,354,0.5379338264465332
+MiniLM,managed forest,1,812,0.5292927026748657
+MiniLM,managed forest,0,585,0.5106937289237976
+MiniLM,managed forest,4,1751,0.5068705677986145
+MiniLM,managed grassland,0,583,0.556723952293396
+MiniLM,managed grassland,0,582,0.43570274114608765
+MiniLM,managed grassland,7,2239,0.40748319029808044
+MiniLM,managed grassland,3,1664,0.40413960814476013
+MiniLM,managed land,0,243,0.5218912959098816
+MiniLM,managed land,4,1774,0.5201342701911926
+MiniLM,managed land,4,1775,0.49983763694763184
+MiniLM,managed land,1,956,0.49649250507354736
+MiniLM,managed land,4,1860,0.48529621958732605
+MiniLM,mean sea level,4,1768,0.4697597324848175
+MiniLM,measurement,0,278,0.5036540627479553
+MiniLM,measurement,0,280,0.47563374042510986
+MiniLM,measurement,0,284,0.4694368243217468
+MiniLM,measurement,0,279,0.4475189745426178
+MiniLM,measurement,1,828,0.44687196612358093
+MiniLM,"Measurement, Reporting and Verification",4,1761,0.517280101776123
+MiniLM,"Measurement, Reporting and Verification",0,280,0.5042142868041992
+MiniLM,"Measurement, Reporting and Verification",4,1826,0.5036579370498657
+MiniLM,"Measurement, Reporting and Verification",1,828,0.5034939646720886
+MiniLM,"Measurement, Reporting and Verification",5,2142,0.5022851824760437
+MiniLM,Meltwater Pulse 1A,4,1768,0.4644727408885956
+MiniLM,Meltwater Pulse 1A,4,1861,0.4253372848033905
+MiniLM,meridional overturning circulation,4,1768,0.42678865790367126
+MiniLM,meridional overturning circulation,4,1772,0.4061400294303894
+MiniLM,meridional overturning circulation,4,1769,0.4048246741294861
+MiniLM,meteorological drought,10,2605,0.4675728380680084
+MiniLM,meteorological drought,0,245,0.43170902132987976
+MiniLM,meteorological drought,5,2086,0.4298502802848816
+MiniLM,meteorological drought,5,2073,0.4215150773525238
+MiniLM,microclimate,4,1774,0.4155954420566559
+MiniLM,microclimate,0,243,0.4076847434043884
+MiniLM,mitigation,4,1773,0.5280176401138306
+MiniLM,mitigation,4,1774,0.5019189715385437
+MiniLM,mitigation,4,1707,0.48070216178894043
+MiniLM,mitigation,4,1772,0.4703842103481293
+MiniLM,mitigation,5,2079,0.44536781311035156
+MiniLM,mitigation measures,4,1772,0.5331036448478699
+MiniLM,mitigation measures,4,1773,0.5250776410102844
+MiniLM,mitigation measures,4,1707,0.5014060735702515
+MiniLM,mitigation measures,5,2077,0.4918946325778961
+MiniLM,mitigation measures,4,1774,0.48869043588638306
+MiniLM,mitigation option,4,1772,0.4934779703617096
+MiniLM,mitigation option,4,1773,0.4882112741470337
+MiniLM,mitigation option,4,1707,0.4410395920276642
+MiniLM,mitigation option,5,2077,0.43567392230033875
+MiniLM,mitigation option,4,1813,0.422311007976532
+MiniLM,mitigation pathways,4,1773,0.5282687544822693
+MiniLM,mitigation pathways,4,1707,0.4816722571849823
+MiniLM,mitigation pathways,4,1774,0.47767725586891174
+MiniLM,mitigation pathways,4,1772,0.4760121703147888
+MiniLM,mitigation pathways,0,243,0.47419750690460205
+MiniLM,mitigation potential,4,1773,0.4853329360485077
+MiniLM,mitigation potential,4,1772,0.469711035490036
+MiniLM,mitigation potential,5,2077,0.4642260670661926
+MiniLM,mitigation potential,4,1813,0.4418027400970459
+MiniLM,mitigation potential,3,1659,0.4289652407169342
+MiniLM,mitigation scenario,6,2189,0.4489995539188385
+MiniLM,mitigation scenario,3,1458,0.4287506341934204
+MiniLM,mitigation scenario,4,1772,0.42515453696250916
+MiniLM,mitigation scenario,0,350,0.42450541257858276
+MiniLM,mitigation scenario,2,1084,0.4198353588581085
+MiniLM,modes of climate variability,4,1769,0.40070784091949463
+MiniLM,monitoring and evaluation,4,1774,0.567065417766571
+MiniLM,monitoring and evaluation,4,1707,0.548780083656311
+MiniLM,monitoring and evaluation,0,281,0.5432745218276978
+MiniLM,monitoring and evaluation,4,1826,0.5299936532974243
+MiniLM,monitoring and evaluation,0,298,0.5184175968170166
+MiniLM,Montreal Protocol,4,1772,0.40011167526245117
+MiniLM,multi-level governance,0,209,0.5038483738899231
+MiniLM,multi-level governance,4,1759,0.4788183867931366
+MiniLM,multi-level governance,1,782,0.465850293636322
+MiniLM,multi-level governance,0,208,0.4561004936695099
+MiniLM,multi-level governance,0,22,0.4518805146217346
+MiniLM,narrative,2,1143,0.41020190715789795
+MiniLM,nature-based solutions,4,1853,0.5555312633514404
+MiniLM,nature-based solutions,4,1818,0.5530881881713867
+MiniLM,nature-based solutions,0,143,0.5489702224731445
+MiniLM,nature-based solutions,4,1748,0.5450946092605591
+MiniLM,nature-based solutions,0,226,0.5443422794342041
+MiniLM,nature's contributions to people,0,246,0.43779391050338745
+MiniLM,nature's contributions to people,4,1783,0.4323222041130066
+MiniLM,nature's contributions to people,0,33,0.43144598603248596
+MiniLM,nature's contributions to people,0,144,0.41490867733955383
+MiniLM,nature's contributions to people,4,1818,0.4086827337741852
+MiniLM,Net zero CO2 emissions,5,2079,0.46428996324539185
+MiniLM,Net zero CO2 emissions,4,1775,0.45301178097724915
+MiniLM,Net zero CO2 emissions,4,1700,0.45031410455703735
+MiniLM,Net zero CO2 emissions,4,1773,0.4267927408218384
+MiniLM,New Urban Agenda,0,108,0.5465573668479919
+MiniLM,New Urban Agenda,10,2554,0.5048796534538269
+MiniLM,New Urban Agenda,10,2550,0.49117884039878845
+MiniLM,New Urban Agenda,5,1937,0.48554542660713196
+MiniLM,New Urban Agenda,8,2336,0.48387619853019714
+MiniLM,Non-CO2 emissions and radiative forcing,4,1775,0.4291015863418579
+MiniLM,Non-CO2 emissions and radiative forcing,4,1773,0.40207958221435547
+MiniLM,ocean,4,1844,0.4600270092487335
+MiniLM,ocean,4,1814,0.40400904417037964
+MiniLM,ocean acidification,4,1775,0.4694449305534363
+MiniLM,ocean acidification,4,1772,0.4221964478492737
+MiniLM,ocean acidification,4,1700,0.4018250107765198
+MiniLM,Ocean alkalinization/Ocean alkalinity enhancement,4,1772,0.4751723110675812
+MiniLM,Ocean alkalinization/Ocean alkalinity enhancement,4,1775,0.4705202579498291
+MiniLM,Ocean alkalinization/Ocean alkalinity enhancement,4,1700,0.42999932169914246
+MiniLM,Ocean alkalinization/Ocean alkalinity enhancement,4,1776,0.4042321443557739
+MiniLM,ocean carbon cycle,4,1775,0.5024484992027283
+MiniLM,ocean carbon cycle,4,1773,0.4206637740135193
+MiniLM,ocean carbon cycle,4,1700,0.4166776239871979
+MiniLM,ocean deoxygenation,4,1775,0.43934366106987
+MiniLM,ocean deoxygenation,4,1814,0.41274356842041016
+MiniLM,ocean dynamic sea level change,4,1768,0.5352514386177063
+MiniLM,ocean dynamic sea level change,4,1769,0.46782419085502625
+MiniLM,ocean dynamic sea level change,4,1772,0.4301363229751587
+MiniLM,ocean dynamic sea level change,4,1815,0.4130190908908844
+MiniLM,ocean dynamic sea level change,4,1775,0.4093768000602722
+MiniLM,ocean fertilisation,4,1775,0.5304716229438782
+MiniLM,ocean fertilisation,4,1772,0.4444766640663147
+MiniLM,ocean fertilisation,4,1700,0.44236239790916443
+MiniLM,ocean fertilisation,4,1773,0.41896241903305054
+MiniLM,ocean heat uptake efficiency,4,1768,0.49034085869789124
+MiniLM,ocean heat uptake efficiency,4,1772,0.45759546756744385
+MiniLM,ocean heat uptake efficiency,4,1775,0.4440928101539612
+MiniLM,ocean heat uptake efficiency,4,1767,0.443059504032135
+MiniLM,ocean heat uptake efficiency,4,1700,0.4231513440608978
+MiniLM,organic farming,7,2242,0.4484926462173462
+MiniLM,organic farming,0,464,0.4044590890407562
+MiniLM,organic farming,7,2241,0.40070801973342896
+MiniLM,outbreak,5,2090,0.4830208718776703
+MiniLM,oxygen minimum zone,4,1768,0.4003807306289673
+MiniLM,Pacific Decadal Oscillation,4,1768,0.4062724709510803
+MiniLM,paleoclimate,0,239,0.4206322729587555
+MiniLM,paleoclimate,4,1825,0.41030675172805786
+MiniLM,paleoclimate,4,1767,0.40009695291519165
+MiniLM,pandemic,5,2095,0.5187777876853943
+MiniLM,participatory governance,0,419,0.5072046518325806
+MiniLM,participatory governance,0,195,0.4847721755504608
+MiniLM,participatory governance,0,84,0.4790996313095093
+MiniLM,participatory governance,0,556,0.47363537549972534
+MiniLM,participatory governance,0,681,0.4680725634098053
+MiniLM,pasture,0,583,0.5964916944503784
+MiniLM,pasture,0,582,0.45328325033187866
+MiniLM,pasture,3,1664,0.4004880487918854
+MiniLM,pathways,7,2219,0.4108083248138428
+MiniLM,peat,0,626,0.46258023381233215
+MiniLM,peatlands,3,1662,0.45530587434768677
+MiniLM,peatlands,3,1664,0.45248791575431824
+MiniLM,peatlands,0,626,0.4374054968357086
+MiniLM,peatlands,1,812,0.4103153645992279
+MiniLM,peri-urban areas,3,1527,0.45877698063850403
+MiniLM,peri-urban areas,0,465,0.45068931579589844
+MiniLM,peri-urban areas,6,2209,0.43336230516433716
+MiniLM,peri-urban areas,0,460,0.42350250482559204
+MiniLM,peri-urban areas,0,243,0.4184916019439697
+MiniLM,physical climate storyline,4,1774,0.4920062720775604
+MiniLM,physical climate storyline,0,590,0.4159250855445862
+MiniLM,physical climate storyline,0,32,0.410692423582077
+MiniLM,physical climate storyline,10,2605,0.40822938084602356
+MiniLM,planned relocation,3,1440,0.41791439056396484
+MiniLM,planned relocation,8,2327,0.4057275950908661
+MiniLM,policies,3,1433,0.5128511786460876
+MiniLM,policies,10,2552,0.4632529616355896
+MiniLM,policies,4,1759,0.4245748817920685
+MiniLM,policies,3,1440,0.42436158657073975
+MiniLM,policies,2,1133,0.4236331582069397
+MiniLM,polycentric governance,5,1994,0.470968633890152
+MiniLM,polycentric governance,5,1993,0.4474334418773651
+MiniLM,polycentric governance,0,209,0.4458460509777069
+MiniLM,polycentric governance,0,419,0.440177857875824
+MiniLM,polycentric governance,0,215,0.43733230233192444
+MiniLM,potential evapotranspiration,0,482,0.42228442430496216
+MiniLM,potential evapotranspiration,0,487,0.4088250994682312
+MiniLM,potential evapotranspiration,0,244,0.40147432684898376
+MiniLM,poverty eradication,0,282,0.41726237535476685
+MiniLM,precipitation deficit,10,2605,0.41676780581474304
+MiniLM,precipitation deficit,5,2086,0.4165012538433075
+MiniLM,precipitation deficit,0,590,0.41412022709846497
+MiniLM,precipitation deficit,0,245,0.4039466083049774
+MiniLM,predictability,5,2085,0.41218727827072144
+MiniLM,private costs,0,253,0.4063490331172943
+MiniLM,Quasi-Biennial Oscillation,2,1016,0.40683379769325256
+MiniLM,reanalysis,4,1824,0.4294041395187378
+MiniLM,reanalysis,4,1769,0.4289851486682892
+MiniLM,reanalysis,4,1768,0.4147785007953644
+MiniLM,Reasons for Concern,4,1774,0.5202062129974365
+MiniLM,Reasons for Concern,4,1773,0.503186047077179
+MiniLM,Reasons for Concern,4,1707,0.4857938289642334
+MiniLM,Reasons for Concern,4,1815,0.4849295914173126
+MiniLM,Reasons for Concern,5,2059,0.4774591624736786
+MiniLM,Reducing Emissions from Deforestation and Forest Degradation,1,812,0.45864084362983704
+MiniLM,Reducing Emissions from Deforestation and Forest Degradation,0,430,0.45721104741096497
+MiniLM,Reducing Emissions from Deforestation and Forest Degradation,0,690,0.4418630003929138
+MiniLM,Reducing Emissions from Deforestation and Forest Degradation,0,143,0.4278162121772766
+MiniLM,Reducing Emissions from Deforestation and Forest Degradation,0,125,0.4276925325393677
+MiniLM,reference scenario,4,1774,0.4676170349121094
+MiniLM,reference scenario,0,243,0.45830902457237244
+MiniLM,reference scenario,3,1440,0.4340916872024536
+MiniLM,reference scenario,4,1707,0.42988306283950806
+MiniLM,reference scenario,4,1813,0.4220796823501587
+MiniLM,reforestation,1,812,0.5034030675888062
+MiniLM,reforestation,0,586,0.5013757944107056
+MiniLM,reforestation,3,1664,0.4712943434715271
+MiniLM,reforestation,0,125,0.4349587559700012
+MiniLM,reforestation,0,430,0.4214199185371399
+MiniLM,regenerative agriculture,0,234,0.5018970370292664
+MiniLM,regenerative agriculture,0,30,0.4592517614364624
+MiniLM,regenerative agriculture,0,586,0.44715890288352966
+MiniLM,regenerative agriculture,0,583,0.44010230898857117
+MiniLM,regenerative agriculture,0,464,0.4390347898006439
+MiniLM,region,8,2326,0.41601577401161194
+MiniLM,region,1,859,0.4076656997203827
+MiniLM,region,4,1700,0.405131995677948
+MiniLM,region,0,452,0.4041734039783478
+MiniLM,region,1,956,0.40406933426856995
+MiniLM,regional climate messages,4,1774,0.48631909489631653
+MiniLM,regional climate messages,4,1825,0.44383710622787476
+MiniLM,regional climate messages,4,1775,0.43190738558769226
+MiniLM,regional climate messages,4,1773,0.4231618046760559
+MiniLM,regional climate messages,9,2518,0.4134725034236908
+MiniLM,regional climate model,4,1774,0.477110356092453
+MiniLM,regional climate model,0,590,0.4637770652770996
+MiniLM,regional climate model,0,243,0.42193275690078735
+MiniLM,regional climate model,0,32,0.41674578189849854
+MiniLM,regional climate model,4,1815,0.4114174246788025
+MiniLM,regional sea level change,4,1768,0.4920406639575958
+MiniLM,regional sea level change,4,1769,0.44079163670539856
+MiniLM,regional sea level change,4,1815,0.40782424807548523
+MiniLM,relative sea level  change,4,1768,0.49698758125305176
+MiniLM,relative sea level  change,4,1769,0.41155916452407837
+MiniLM,relative sea level  change,4,1817,0.4096105396747589
+MiniLM,relative sea level  change,4,1772,0.40914973616600037
+MiniLM,relative sea level  change,4,1771,0.40899211168289185
+MiniLM,remaining carbon budget,4,1773,0.46194183826446533
+MiniLM,remaining carbon budget,5,2079,0.45002561807632446
+MiniLM,remaining carbon budget,4,1772,0.44109469652175903
+MiniLM,remaining carbon budget,4,1775,0.4286661148071289
+MiniLM,remaining carbon budget,4,1774,0.4254710078239441
+MiniLM,renewable energy,3,1645,0.49855393171310425
+MiniLM,renewable energy,3,1663,0.4796527028083801
+MiniLM,renewable energy,3,1664,0.42149513959884644
+MiniLM,renewable energy,5,2083,0.41196271777153015
+MiniLM,reporting,4,1774,0.45133790373802185
+MiniLM,reporting,4,1767,0.4434677064418793
+MiniLM,reporting,3,1423,0.4346141219139099
+MiniLM,reporting,4,1825,0.42809274792671204
+MiniLM,reporting,4,1761,0.42687341570854187
+MiniLM,Representative Key Risks,5,2093,0.4353354275226593
+MiniLM,Representative Key Risks,5,2091,0.401200532913208
+MiniLM,residual risk,4,1774,0.5833315849304199
+MiniLM,residual risk,4,1815,0.5076776742935181
+MiniLM,residual risk,0,590,0.5001476407051086
+MiniLM,residual risk,4,1769,0.48755136132240295
+MiniLM,residual risk,4,1773,0.4858834743499756
+MiniLM,resilience,4,1813,0.45471853017807007
+MiniLM,resilience,0,282,0.42775216698646545
+MiniLM,resilience,4,1774,0.42390453815460205
+MiniLM,resilience,4,1815,0.4139333963394165
+MiniLM,resilience,3,1392,0.4102131426334381
+MiniLM,resource cascade,3,1664,0.41434693336486816
+MiniLM,restoration,1,962,0.6684333682060242
+MiniLM,restoration,0,234,0.5652130842208862
+MiniLM,restoration,0,432,0.5639121532440186
+MiniLM,restoration,0,30,0.560718834400177
+MiniLM,restoration,0,691,0.547137439250946
+MiniLM,risk,4,1774,0.5658804178237915
+MiniLM,risk,0,245,0.5601216554641724
+MiniLM,risk,4,1773,0.5402746200561523
+MiniLM,risk,0,596,0.5393095016479492
+MiniLM,risk,4,1813,0.5332933068275452
+MiniLM,risk assessment,5,2093,0.41864264011383057
+MiniLM,risk assessment,0,292,0.40212729573249817
+MiniLM,risk framework,4,1774,0.49633651971817017
+MiniLM,risk framework,4,1707,0.48713740706443787
+MiniLM,risk framework,4,1813,0.4672229290008545
+MiniLM,risk framework,0,245,0.46379271149635315
+MiniLM,risk framework,4,1773,0.4620034098625183
+MiniLM,risk management,2,1172,0.4164296090602875
+MiniLM,risk management,10,2529,0.41592344641685486
+MiniLM,risk management,5,2093,0.40107640624046326
+MiniLM,risk management,5,2094,0.4010550379753113
+MiniLM,river discharge,1,818,0.44352492690086365
+MiniLM,river discharge,3,1409,0.40303903818130493
+MiniLM,river discharge,5,2073,0.4007265269756317
+MiniLM,salt-water intrusion/encroachment,4,1814,0.46430161595344543
+MiniLM,salt-water intrusion/encroachment,2,1103,0.4289517402648926
+MiniLM,salt-water intrusion/encroachment,2,1104,0.4116882383823395
+MiniLM,sea level change,4,1768,0.5488470196723938
+MiniLM,sea level change,4,1769,0.4871133267879486
+MiniLM,sea level change,4,1772,0.4486810564994812
+MiniLM,sea level change,4,1814,0.4358273446559906
+MiniLM,sea level change,4,1815,0.40982115268707275
+MiniLM,sea level equivalent,4,1768,0.42715170979499817
+MiniLM,sea level rise,4,1768,0.5571423768997192
+MiniLM,sea level rise,4,1769,0.4775160551071167
+MiniLM,sea level rise,4,1772,0.4422456622123718
+MiniLM,sea level rise,4,1814,0.44061607122421265
+MiniLM,sea level rise,4,1815,0.4039720594882965
+MiniLM,semi-arid zone,0,245,0.4116419851779938
+MiniLM,semi-arid zone,10,2605,0.40512019395828247
+MiniLM,semi-empirical model,4,1768,0.4012835621833801
+MiniLM,Sendai Framework for Disaster Risk Reduction,2,1173,0.49947458505630493
+MiniLM,Sendai Framework for Disaster Risk Reduction,4,1707,0.49490445852279663
+MiniLM,Sendai Framework for Disaster Risk Reduction,2,1101,0.46176353096961975
+MiniLM,Sendai Framework for Disaster Risk Reduction,0,723,0.45566219091415405
+MiniLM,Sendai Framework for Disaster Risk Reduction,0,245,0.45211097598075867
+MiniLM,sensitivity,5,2059,0.41078653931617737
+MiniLM,sequestration,4,1775,0.4221712350845337
+MiniLM,sequestration,4,1707,0.4033397436141968
+MiniLM,sequestration potential,4,1775,0.43182826042175293
+MiniLM,sequestration potential,4,1773,0.40096011757850647
+MiniLM,service provisioning,3,1664,0.4979150593280792
+MiniLM,service provisioning,0,717,0.4294796288013458
+MiniLM,settlements,0,516,0.47707512974739075
+MiniLM,settlements,0,16,0.4502546489238739
+MiniLM,settlements,0,84,0.4434414505958557
+MiniLM,settlements,1,799,0.44031280279159546
+MiniLM,settlements,0,611,0.44017112255096436
+MiniLM,shared socio-economic pathways,0,243,0.5096725821495056
+MiniLM,shared socio-economic pathways,5,2077,0.4915144145488739
+MiniLM,shared socio-economic pathways,3,1440,0.44879087805747986
+MiniLM,shared socio-economic pathways,4,1707,0.44693246483802795
+MiniLM,shared socio-economic pathways,4,1813,0.44351285696029663
+MiniLM,sharing economy.,0,264,0.41649457812309265
+MiniLM,shelf seas,4,1768,0.4619751274585724
+MiniLM,shelf seas,4,1821,0.4112705588340759
+MiniLM,shifting development pathways to sustainability,4,1854,0.4783317446708679
+MiniLM,shifting development pathways to sustainability,0,125,0.44691455364227295
+MiniLM,shifting development pathways to sustainability,0,350,0.4393185079097748
+MiniLM,shifting development pathways to sustainability,10,2554,0.4358617663383484
+MiniLM,shifting development pathways to sustainability,3,1371,0.43563416600227356
+MiniLM,significant wave height,5,2042,0.4034465253353119
+MiniLM,simple climate model,4,1774,0.4135341942310333
+MiniLM,simple climate model,10,2605,0.40886127948760986
+MiniLM,simple climate model,4,1813,0.4082721471786499
+MiniLM,Small Island Developing States,0,419,0.44201958179473877
+MiniLM,Small Island Developing States,0,163,0.4225122630596161
+MiniLM,Small Island Developing States,0,21,0.42132654786109924
+MiniLM,Small Island Developing States,0,20,0.4133192002773285
+MiniLM,Small Island Developing States,0,683,0.4045350253582001
+MiniLM,social cost of carbon,4,1775,0.4160703420639038
+MiniLM,social cost of carbon,4,1813,0.4093516170978546
+MiniLM,social-ecological system,4,1765,0.42679351568222046
+MiniLM,social-ecological system,0,143,0.4200744032859802
+MiniLM,social-ecological system,4,1708,0.4135759770870209
+MiniLM,social-ecological system,4,1748,0.40737465023994446
+MiniLM,social-ecological system,0,318,0.4062176048755646
+MiniLM,social inclusion,10,2613,0.4278933107852936
+MiniLM,social infrastructure,3,1392,0.4772709906101227
+MiniLM,social infrastructure,3,1358,0.4522794783115387
+MiniLM,social infrastructure,0,282,0.4514196515083313
+MiniLM,social infrastructure,3,1642,0.4455602765083313
+MiniLM,social infrastructure,3,1641,0.43956372141838074
+MiniLM,social protection,3,1458,0.426410436630249
+MiniLM,social protection,0,158,0.4214509129524231
+MiniLM,social protection,0,77,0.4160066545009613
+MiniLM,social protection,0,569,0.4148276150226593
+MiniLM,social protection,0,282,0.40434011816978455
+MiniLM,socio-economic scenario,0,243,0.49932801723480225
+MiniLM,socio-economic scenario,4,1774,0.4769490659236908
+MiniLM,socio-economic scenario,5,2077,0.4766218662261963
+MiniLM,socio-economic scenario,4,1775,0.44293373823165894
+MiniLM,socio-economic scenario,0,590,0.43916288018226624
+MiniLM,socio-technical transitions,4,1837,0.4286358654499054
+MiniLM,soil carbon sequestration,4,1775,0.49097996950149536
+MiniLM,soil carbon sequestration,2,1104,0.4328661561012268
+MiniLM,soil carbon sequestration,0,586,0.425197035074234
+MiniLM,soil carbon sequestration,3,1664,0.4237052798271179
+MiniLM,soil carbon sequestration,1,812,0.422696977853775
+MiniLM,soil erosion,1,811,0.49806737899780273
+MiniLM,soil erosion,1,813,0.4192770719528198
+MiniLM,soil erosion,2,1104,0.4106447696685791
+MiniLM,solar activity,2,1020,0.43937239050865173
+MiniLM,solar activity,2,1023,0.4221276044845581
+MiniLM,solar activity,2,1021,0.4113747477531433
+MiniLM,solar cycle,2,1023,0.49606791138648987
+MiniLM,solar cycle,2,1020,0.49315282702445984
+MiniLM,solar cycle,2,1018,0.46198517084121704
+MiniLM,solar cycle,2,1012,0.4399288594722748
+MiniLM,solar cycle,2,1021,0.43792614340782166
+MiniLM,solar energy,3,1664,0.4158385992050171
+MiniLM,solar energy,5,2081,0.41043621301651
+MiniLM,solution space,0,245,0.5056060552597046
+MiniLM,solution space,4,1773,0.5039221048355103
+MiniLM,solution space,4,1774,0.4961394667625427
+MiniLM,solution space,4,1854,0.4893466830253601
+MiniLM,solution space,4,1857,0.4758935570716858
+MiniLM,Southern Ocean,4,1775,0.49941712617874146
+MiniLM,Southern Ocean,4,1773,0.442167729139328
+MiniLM,Southern Ocean,4,1772,0.4359610080718994
+MiniLM,Southern Ocean,4,1844,0.4352308213710785
+MiniLM,Southern Ocean,4,1821,0.41950199007987976
+MiniLM,spill-over effect,3,1641,0.4357057511806488
+MiniLM,spill-over effect,8,2304,0.4164409637451172
+MiniLM,standard,1,852,0.4162008464336395
+MiniLM,standard,3,1423,0.40422067046165466
+MiniLM,standard,1,797,0.40393775701522827
+MiniLM,steric sea level change,4,1768,0.4641290009021759
+MiniLM,steric sea level change,4,1769,0.45141685009002686
+MiniLM,stressors,5,2059,0.48878714442253113
+MiniLM,stressors,0,245,0.46503394842147827
+MiniLM,stressors,4,1774,0.4603746235370636
+MiniLM,stressors,5,2095,0.4593464136123657
+MiniLM,stressors,5,2077,0.4316379129886627
+MiniLM,subduction,4,1771,0.4264724850654602
+MiniLM,subnational actors,0,84,0.5027622580528259
+MiniLM,subnational actors,0,195,0.502570390701294
+MiniLM,subnational actors,5,1994,0.48641759157180786
+MiniLM,subnational actors,0,419,0.4630791246891022
+MiniLM,subnational actors,0,209,0.4572121500968933
+MiniLM,sufficiency,0,282,0.49050915241241455
+MiniLM,sufficiency,0,251,0.400433212518692
+MiniLM,supply-side measures,4,1811,0.4371282756328583
+MiniLM,supply-side measures,0,423,0.43247225880622864
+MiniLM,supply-side measures,4,1707,0.42280712723731995
+MiniLM,supply-side measures,0,452,0.4043043553829193
+MiniLM,surface energy budget,5,2081,0.41037696599960327
+MiniLM,surface energy budget,5,2077,0.4027474820613861
+MiniLM,sustainability,3,1392,0.46190139651298523
+MiniLM,sustainability,0,501,0.4604417383670807
+MiniLM,sustainability,0,282,0.4454871416091919
+MiniLM,sustainability,0,389,0.4257957637310028
+MiniLM,sustainability,0,423,0.4170531630516052
+MiniLM,Sustainable Development Goals,4,1854,0.6049137115478516
+MiniLM,Sustainable Development Goals,4,1857,0.5532048344612122
+MiniLM,Sustainable Development Goals,3,1371,0.5429663062095642
+MiniLM,Sustainable Development Goals,3,1378,0.49132829904556274
+MiniLM,Sustainable Development Goals,4,1858,0.49107664823532104
+MiniLM,sustainable development,4,1854,0.5354544520378113
+MiniLM,sustainable development,3,1371,0.4940214455127716
+MiniLM,sustainable development,8,2316,0.48608243465423584
+MiniLM,sustainable development,0,138,0.45731237530708313
+MiniLM,sustainable development,3,1392,0.45545727014541626
+MiniLM,sustainable development pathways,4,1854,0.5546251535415649
+MiniLM,sustainable development pathways,3,1440,0.5187675356864929
+MiniLM,sustainable development pathways,4,1774,0.5021951198577881
+MiniLM,sustainable development pathways,4,1857,0.48917850852012634
+MiniLM,sustainable development pathways,4,1760,0.4881023168563843
+MiniLM,sustainable forest management,0,586,0.5340477228164673
+MiniLM,sustainable forest management,3,1392,0.5327010750770569
+MiniLM,sustainable forest management,2,995,0.5264747738838196
+MiniLM,sustainable forest management,0,354,0.5230777859687805
+MiniLM,sustainable forest management,2,996,0.5216889381408691
+MiniLM,sustainable intensification,3,1664,0.5422907471656799
+MiniLM,sustainable intensification,0,711,0.5184503197669983
+MiniLM,sustainable intensification,0,243,0.5157512426376343
+MiniLM,sustainable intensification,3,1440,0.5002142190933228
+MiniLM,sustainable intensification,0,282,0.4870857298374176
+MiniLM,sustainable land management,3,1392,0.5669199228286743
+MiniLM,sustainable land management,0,43,0.5513134598731995
+MiniLM,sustainable land management,0,444,0.5455270409584045
+MiniLM,sustainable land management,0,31,0.5366748571395874
+MiniLM,sustainable land management,1,956,0.5319189429283142
+MiniLM,swash,4,1814,0.4396000802516937
+MiniLM,swash,4,1808,0.4246089458465576
+MiniLM,swash,4,1818,0.40388211607933044
+MiniLM,sympagic,4,1829,0.4465591013431549
+MiniLM,sympagic,4,1691,0.40059587359428406
+MiniLM,Systems of Innovation,1,845,0.4027930498123169
+MiniLM,technical potential,4,1813,0.42546653747558594
+MiniLM,technical potential,4,1707,0.4100257158279419
+MiniLM,technical potential,4,1818,0.40950414538383484
+MiniLM,technical potential,4,1807,0.4032913148403168
+MiniLM,technical potential,4,1811,0.40112024545669556
+MiniLM,teleconnection,4,1760,0.40277954936027527
+MiniLM,thermosteric sea level change,4,1768,0.42234474420547485
+MiniLM,total carbon budget,0,253,0.49785086512565613
+MiniLM,total carbon budget,0,35,0.44261711835861206
+MiniLM,total carbon budget,5,2079,0.40694189071655273
+MiniLM,total carbon budget,4,1775,0.40590035915374756
+MiniLM,total carbon budget,0,243,0.40336960554122925
+MiniLM,traditional biomass,3,1664,0.4491981565952301
+MiniLM,transformation pathways,4,1774,0.5769705176353455
+MiniLM,transformation pathways,4,1707,0.5387805700302124
+MiniLM,transformation pathways,4,1775,0.5093579888343811
+MiniLM,transformation pathways,4,1700,0.5051826238632202
+MiniLM,transformation pathways,4,1773,0.4990224540233612
+MiniLM,transformational adaptation,4,1774,0.6037324666976929
+MiniLM,transformational adaptation,4,1707,0.529112696647644
+MiniLM,transformational adaptation,4,1813,0.508553683757782
+MiniLM,transformational adaptation,4,1815,0.5058960318565369
+MiniLM,transformational adaptation,4,1700,0.4778105318546295
+MiniLM,transient climate response,4,1774,0.4185941219329834
+MiniLM,transient climate response,4,1772,0.4125661253929138
+MiniLM,transient climate response,4,1700,0.4034501910209656
+MiniLM,Transient climate response to cumulative CO2 emissions,4,1813,0.4428536891937256
+MiniLM,Transient climate response to cumulative CO2 emissions,4,1772,0.4232923984527588
+MiniLM,Transient climate response to cumulative CO2 emissions,4,1700,0.4144282639026642
+MiniLM,Transient climate response to cumulative CO2 emissions,4,1767,0.40945959091186523
+MiniLM,Transient climate response to cumulative CO2 emissions,4,1707,0.40004581212997437
+MiniLM,tree rings,5,1908,0.4321252107620239
+MiniLM,typological regions,0,230,0.4731254577636719
+MiniLM,typological regions,0,452,0.4484225809574127
+MiniLM,typological regions,0,243,0.4355086088180542
+MiniLM,typological regions,4,1813,0.4140882194042206
+MiniLM,typological regions,0,245,0.413947731256485
+MiniLM,United Nations Convention to Combat Desertification,0,202,0.46450290083885193
+MiniLM,United Nations Convention to Combat Desertification,4,1774,0.4625948369503021
+MiniLM,United Nations Convention to Combat Desertification,3,1423,0.45611536502838135
+MiniLM,United Nations Convention to Combat Desertification,4,1781,0.4526537358760834
+MiniLM,United Nations Convention to Combat Desertification,4,1773,0.44936880469322205
+MiniLM,United Nations Framework Convention on Climate Change,4,1700,0.47309544682502747
+MiniLM,United Nations Framework Convention on Climate Change,3,1423,0.47206148505210876
+MiniLM,United Nations Framework Convention on Climate Change,4,1774,0.46822264790534973
+MiniLM,United Nations Framework Convention on Climate Change,4,1773,0.44331514835357666
+MiniLM,United Nations Framework Convention on Climate Change,4,1707,0.4427248537540436
+MiniLM,Urban Systems,5,1902,0.4994400143623352
+MiniLM,Urban Systems,5,1913,0.4572213292121887
+MiniLM,Urban Systems,5,1869,0.44700250029563904
+MiniLM,Urban Systems,5,2002,0.42905211448669434
+MiniLM,Urban Systems,2,1080,0.4281806945800781
+MiniLM,urban,6,2209,0.5525557398796082
+MiniLM,urban,5,1902,0.51314777135849
+MiniLM,urban,5,2007,0.49269917607307434
+MiniLM,urban,5,1869,0.4810844957828522
+MiniLM,urban,5,1993,0.46656766533851624
+MiniLM,urban and peri-urban agriculture,0,583,0.49985799193382263
+MiniLM,urban and peri-urban agriculture,0,465,0.47613927721977234
+MiniLM,urban and peri-urban agriculture,0,582,0.4683575928211212
+MiniLM,urban and peri-urban agriculture,0,371,0.4482763111591339
+MiniLM,urban and peri-urban agriculture,7,2242,0.447529673576355
+MiniLM,urban heat island,5,2081,0.5038590431213379
+MiniLM,urban heat island,5,2077,0.5032758116722107
+MiniLM,urban heat island,5,2082,0.49561575055122375
+MiniLM,urban heat island,5,2083,0.4743112325668335
+MiniLM,urban heat island,5,2075,0.4482544958591461
+MiniLM,urbanisation,3,1527,0.5128242373466492
+MiniLM,urbanisation,0,240,0.5029071569442749
+MiniLM,urbanisation,0,243,0.4919859766960144
+MiniLM,urbanisation,6,2209,0.4838804304599762
+MiniLM,urbanisation,0,324,0.47733074426651
+MiniLM,urbanization,5,2088,0.49209120869636536
+MiniLM,urbanization,0,231,0.48071885108947754
+MiniLM,urbanization,1,956,0.4772622287273407
+MiniLM,urbanization,0,241,0.47600895166397095
+MiniLM,urbanization,0,70,0.4759248197078705
+MiniLM,values and beliefs,0,509,0.44910916686058044
+MiniLM,values and beliefs,4,1701,0.44395267963409424
+MiniLM,values and beliefs,4,1726,0.42458662390708923
+MiniLM,values and beliefs,3,1356,0.4011094570159912
+MiniLM,variable renewable energy,3,1663,0.449136883020401
+MiniLM,variable renewable energy,3,1645,0.4078555703163147
+MiniLM,verification,0,41,0.4470520317554474
+MiniLM,verification,5,2143,0.4464946985244751
+MiniLM,verification,0,278,0.4386671483516693
+MiniLM,verification,4,1758,0.43503034114837646
+MiniLM,verification,0,280,0.43178433179855347
+MiniLM,vertical land motion,2,1104,0.51893550157547
+MiniLM,vertical land motion,2,1103,0.49226507544517517
+MiniLM,vertical land motion,4,1768,0.40772899985313416
+MiniLM,vulnerability index,5,2059,0.4747709333896637
+MiniLM,vulnerability index,4,1767,0.44424569606781006
+MiniLM,vulnerability index,4,1768,0.43402907252311707
+MiniLM,vulnerability index,4,1815,0.4161738455295563
+MiniLM,vulnerability index,4,1769,0.4076286852359772
+MiniLM,water-borne diseases,5,2100,0.41761288046836853
+MiniLM,water cycle,0,487,0.4225316345691681
+MiniLM,water cycle,0,245,0.41514620184898376
+MiniLM,water security,0,245,0.5876980423927307
+MiniLM,water security,10,2604,0.5629310011863708
+MiniLM,water security,8,2290,0.5282356142997742
+MiniLM,water security,3,1541,0.5118621587753296
+MiniLM,water security,4,1854,0.5094664692878723
+MiniLM,well-being,0,501,0.44982028007507324
+MiniLM,well-being,2,1136,0.44806408882141113
+MiniLM,wetland,3,1662,0.43020889163017273
+MiniLM,wetland,3,1574,0.4209251403808594
+MiniLM,wetland,3,1661,0.404849648475647
+MiniLM,wetland,1,756,0.4040704071521759
+MiniLM,wind energy,3,1663,0.5519976019859314
+MiniLM,wind energy,3,1645,0.44373437762260437
+MiniLM,wind energy,8,2267,0.4061630070209503
+MiniLM,impact assessment,3,1440,0.5445370078086853
+MiniLM,impact assessment,4,1774,0.5210340619087219
+MiniLM,impact assessment,0,590,0.5094559788703918
+MiniLM,impact assessment,3,1659,0.5064066648483276
+MiniLM,impact assessment,0,243,0.5040527582168579

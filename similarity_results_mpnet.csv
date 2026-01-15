@@ -1,0 +1,1321 @@
+Model,Concept,MP Index,Chunk ID,Score
+MPNet,abrupt climate change,4,1813,0.40335842967033386
+MPNet,access to modern energy services,5,2083,0.4879283607006073
+MPNet,access to modern energy services,5,2076,0.4707362651824951
+MPNet,access to modern energy services,5,2077,0.46586138010025024
+MPNet,access to modern energy services,3,1646,0.44395750761032104
+MPNet,access to modern energy services,3,1664,0.4416230320930481
+MPNet,acute food insecurity,5,2090,0.4656214714050293
+MPNet,adaptation,4,1774,0.47511762380599976
+MPNet,adaptation,4,1813,0.4413032829761505
+MPNet,adaptation,0,243,0.4064810276031494
+MPNet,Adaptation Fund,4,1774,0.5167791843414307
+MPNet,Adaptation Fund,4,1813,0.5125648379325867
+MPNet,Adaptation Fund,4,1707,0.4656316637992859
+MPNet,Adaptation Fund,4,1680,0.4478689730167389
+MPNet,Adaptation Fund,4,1773,0.44531169533729553
+MPNet,adaptation behaviour,4,1774,0.585312008857727
+MPNet,adaptation behaviour,4,1813,0.5464567542076111
+MPNet,adaptation behaviour,4,1815,0.5210410952568054
+MPNet,adaptation behaviour,4,1707,0.506105899810791
+MPNet,adaptation behaviour,5,2059,0.49860042333602905
+MPNet,adaptation deficit,4,1774,0.5339238047599792
+MPNet,adaptation deficit,4,1813,0.4878172278404236
+MPNet,adaptation deficit,4,1815,0.4616929590702057
+MPNet,adaptation deficit,0,243,0.44834956526756287
+MPNet,adaptation deficit,4,1773,0.44365552067756653
+MPNet,adaptation gap,4,1774,0.5139738321304321
+MPNet,adaptation gap,4,1815,0.5042698383331299
+MPNet,adaptation gap,4,1707,0.48733940720558167
+MPNet,adaptation gap,4,1813,0.4859830141067505
+MPNet,adaptation gap,4,1773,0.4767736494541168
+MPNet,adaptation needs,4,1774,0.6638218760490417
+MPNet,adaptation needs,4,1813,0.6364019513130188
+MPNet,adaptation needs,4,1773,0.6147729158401489
+MPNet,adaptation needs,4,1707,0.6118620038032532
+MPNet,adaptation needs,4,1816,0.5812469720840454
+MPNet,adaptation opportunity,4,1774,0.5189931988716125
+MPNet,adaptation opportunity,0,243,0.494915246963501
+MPNet,adaptation opportunity,0,29,0.4440276324748993
+MPNet,adaptation opportunity,4,1828,0.4185387194156647
+MPNet,adaptation opportunity,4,1813,0.4181787669658661
+MPNet,adaptation options,4,1774,0.5658932328224182
+MPNet,adaptation options,4,1813,0.44865962862968445
+MPNet,adaptation options,4,1680,0.4405323565006256
+MPNet,adaptation options,0,243,0.4313559830188751
+MPNet,adaptation options,4,1771,0.4225955605506897
+MPNet,adaptation pathways,4,1774,0.4450186789035797
+MPNet,adaptive governance,4,1774,0.6132568717002869
+MPNet,adaptive governance,0,243,0.5441444516181946
+MPNet,adaptive governance,4,1707,0.5278204679489136
+MPNet,adaptive governance,4,1813,0.5196279287338257
+MPNet,adaptive governance,4,1770,0.5131059288978577
+MPNet,added value,0,243,0.46055740118026733
+MPNet,added value,0,32,0.42236021161079407
+MPNet,added value,3,1659,0.4174689054489136
+MPNet,adjustments,4,1774,0.46822407841682434
+MPNet,adjustments,4,1813,0.46091607213020325
+MPNet,adjustments,0,243,0.45113739371299744
+MPNet,adjustments,3,1659,0.4044283628463745
+MPNet,adjustments,4,1815,0.4002714455127716
+MPNet,afforestation,1,812,0.43904417753219604
+MPNet,afforestation,3,1664,0.4063599705696106
+MPNet,"Agriculture, Forestry and Other Land Use",3,1664,0.46943867206573486
+MPNet,"Agriculture, Forestry and Other Land Use",4,1828,0.4127296209335327
+MPNet,"Agriculture, Forestry and Other Land Use",4,1775,0.4075891077518463
+MPNet,"Agriculture, Forestry and Other Land Use",1,812,0.40119239687919617
+MPNet,agroecology,7,2241,0.5626980662345886
+MPNet,agroecology,7,2242,0.5253881216049194
+MPNet,agroecology,3,1664,0.5214040875434875
+MPNet,agroecology,1,811,0.5129563808441162
+MPNet,agroecology,7,2243,0.5050107836723328
+MPNet,agroforestry,3,1664,0.5519391894340515
+MPNet,agroforestry,1,956,0.5377742052078247
+MPNet,agroforestry,1,812,0.5231465101242065
+MPNet,agroforestry,0,583,0.49722275137901306
+MPNet,agroforestry,0,325,0.4965894818305969
+MPNet,anthropocene,4,1825,0.4843018352985382
+MPNet,anthropocene,4,1696,0.4834282100200653
+MPNet,anthropocene,4,1854,0.4642871916294098
+MPNet,anthropocene,0,32,0.4638381898403168
+MPNet,anthropocene,0,243,0.46201926469802856
+MPNet,anthropogenic removals,4,1775,0.5053812861442566
+MPNet,anthropogenic removals,3,1664,0.49704328179359436
+MPNet,anthropogenic removals,4,1700,0.47751227021217346
+MPNet,anthropogenic removals,4,1813,0.47002193331718445
+MPNet,anthropogenic removals,4,1707,0.4623681604862213
+MPNet,anthropogenic subsidence,2,1104,0.5787575840950012
+MPNet,anthropogenic subsidence,2,1108,0.4587518274784088
+MPNet,anthropogenic subsidence,2,1103,0.4570079445838928
+MPNet,anthropogenic subsidence,3,1662,0.4168712794780731
+MPNet,anthropogenic subsidence,0,32,0.40423697233200073
+MPNet,apparent hydrological sensitivity,3,1659,0.48628145456314087
+MPNet,apparent hydrological sensitivity,5,2059,0.4816836714744568
+MPNet,apparent hydrological sensitivity,4,1813,0.47185298800468445
+MPNet,apparent hydrological sensitivity,0,590,0.44501662254333496
+MPNet,apparent hydrological sensitivity,2,1112,0.42603832483291626
+MPNet,arctic oscillation,2,1020,0.4228822588920593
+MPNet,arctic oscillation,2,1021,0.4200302064418793
+MPNet,arid zone,3,1664,0.43534722924232483
+MPNet,artificial ocean upwelling,4,1772,0.4211457669734955
+MPNet,artificial ocean upwelling,4,1775,0.4208763837814331
+MPNet,Atlantic Multi-decadal Variability,4,1768,0.44209256768226624
+MPNet,Atlantic Multi-decadal Variability,4,1770,0.42606595158576965
+MPNet,Atlantic Multi-decadal Variability,4,1821,0.42043402791023254
+MPNet,Atlantic Multi-decadal Variability,4,1773,0.4126461446285248
+MPNet,Atlantic Multi-decadal Variability,4,1772,0.40474796295166016
+MPNet,autonomous adaptation,4,1774,0.42317697405815125
+MPNet,autonomous adaptation,4,1813,0.41750386357307434
+MPNet,"Avoid, Shift, Improve",5,2079,0.529106616973877
+MPNet,"Avoid, Shift, Improve",4,1775,0.42419612407684326
+MPNet,"Avoid, Shift, Improve",4,1803,0.41830679774284363
+MPNet,"Avoid, Shift, Improve",5,2077,0.4116955101490021
+MPNet,"Avoid, Shift, Improve",0,243,0.40921851992607117
+MPNet,behavioural change,0,243,0.5911002159118652
+MPNet,behavioural change,4,1774,0.5706561803817749
+MPNet,behavioural change,4,1813,0.5597380995750427
+MPNet,behavioural change,4,1707,0.5274332761764526
+MPNet,behavioural change,4,1815,0.5239146947860718
+MPNet,beta diversity,4,1825,0.4592899680137634
+MPNet,beta diversity,4,1828,0.40884119272232056
+MPNet,bioenergy,3,1664,0.40234866738319397
+MPNet,biogeophysical potential,4,1813,0.552258312702179
+MPNet,biogeophysical potential,4,1707,0.49885591864585876
+MPNet,biogeophysical potential,4,1775,0.4777466654777527
+MPNet,biogeophysical potential,1,832,0.46712014079093933
+MPNet,biogeophysical potential,4,1828,0.46675974130630493
+MPNet,biomass,3,1664,0.4077424108982086
+MPNet,biomes,0,326,0.41232630610466003
+MPNet,biomes,3,1664,0.4117281436920166
+MPNet,biomes,0,143,0.4044506847858429
+MPNet,blue carbon,4,1775,0.5659129619598389
+MPNet,blue carbon,4,1821,0.5611696243286133
+MPNet,blue carbon,4,1710,0.5298587679862976
+MPNet,blue carbon,4,1776,0.5188039541244507
+MPNet,blue carbon,4,1768,0.515842854976654
+MPNet,blue infrastructure,3,1540,0.5165113806724548
+MPNet,blue infrastructure,3,1572,0.51063472032547
+MPNet,blue infrastructure,5,2166,0.5101652145385742
+MPNet,blue infrastructure,3,1582,0.5055038928985596
+MPNet,blue infrastructure,3,1642,0.5029596090316772
+MPNet,capacity building,0,259,0.45370185375213623
+MPNet,carbon–climate feedback,4,1813,0.4715099632740021
+MPNet,carbon–climate feedback,4,1772,0.43187928199768066
+MPNet,carbon–climate feedback,4,1775,0.4310758709907532
+MPNet,carbon–climate feedback,4,1774,0.42554301023483276
+MPNet,carbon–climate feedback,4,1700,0.41818711161613464
+MPNet,carbon cycle,4,1813,0.424433171749115
+MPNet,carbon dioxide,5,2079,0.4223156273365021
+MPNet,carbon feedback,4,1813,0.4731326997280121
+MPNet,carbon feedback,4,1775,0.4299941062927246
+MPNet,carbon feedback,4,1774,0.4265329837799072
+MPNet,carbon feedback,4,1772,0.4263631999492645
+MPNet,carbon feedback,4,1700,0.41174066066741943
+MPNet,carbon neutrality,4,1775,0.49016880989074707
+MPNet,carbon neutrality,5,2079,0.48317161202430725
+MPNet,carbon neutrality,4,1772,0.4671453833580017
+MPNet,carbon neutrality,4,1707,0.46224305033683777
+MPNet,carbon neutrality,4,1700,0.45912638306617737
+MPNet,cascading impacts,5,2090,0.515859842300415
+MPNet,cascading impacts,5,2092,0.4671557545661926
+MPNet,cascading impacts,0,245,0.4671346843242645
+MPNet,cascading impacts,4,1813,0.4535469710826874
+MPNet,cascading impacts,5,2091,0.4521446228027344
+MPNet,choice architecture,0,267,0.41461503505706787
+MPNet,choice architecture,2,1176,0.40444430708885193
+MPNet,chronology,5,2090,0.4384715259075165
+MPNet,cities,5,2153,0.5928765535354614
+MPNet,cities,3,1440,0.5925295948982239
+MPNet,cities,5,1937,0.5913708806037903
+MPNet,cities,5,1865,0.590634822845459
+MPNet,cities,5,2002,0.5817588567733765
+MPNet,citizen science,0,501,0.433007150888443
+MPNet,citizen science,4,1781,0.4110494554042816
+MPNet,citizen science,4,1837,0.40520378947257996
+MPNet,city region,3,1527,0.45133721828460693
+MPNet,city region,5,1993,0.4470541775226593
+MPNet,city region,5,1994,0.427084356546402
+MPNet,city region,2,1081,0.4173048734664917
+MPNet,city region,5,1947,0.4110454022884369
+MPNet,climate–carbon cycle feedback,4,1813,0.467781662940979
+MPNet,climate–carbon cycle feedback,4,1772,0.43084070086479187
+MPNet,climate–carbon cycle feedback,4,1775,0.42440542578697205
+MPNet,climate–carbon cycle feedback,4,1700,0.42084065079689026
+MPNet,climate–carbon cycle feedback,4,1774,0.41856276988983154
+MPNet,climate change,4,1813,0.5126957297325134
+MPNet,climate change,0,243,0.48678064346313477
+MPNet,climate change,4,1774,0.45401597023010254
+MPNet,climate change,4,1815,0.4381875991821289
+MPNet,climate change,5,2059,0.4330217242240906
+MPNet,climate change commitment,4,1774,0.584821879863739
+MPNet,climate change commitment,4,1813,0.5752699375152588
+MPNet,climate change commitment,4,1773,0.5571907758712769
+MPNet,climate change commitment,4,1815,0.5305888056755066
+MPNet,climate change commitment,0,243,0.5288837552070618
+MPNet,climate finance,4,1707,0.4995729923248291
+MPNet,climate finance,4,1813,0.4806050956249237
+MPNet,climate finance,4,1773,0.4695620834827423
+MPNet,climate finance,4,1774,0.4656999111175537
+MPNet,climate finance,4,1772,0.4297337532043457
+MPNet,climate governance,4,1774,0.6293829679489136
+MPNet,climate governance,4,1707,0.5849823355674744
+MPNet,climate governance,4,1773,0.5690771341323853
+MPNet,climate governance,4,1813,0.556467592716217
+MPNet,climate governance,4,1770,0.5176683664321899
+MPNet,climate index,4,1826,0.4889804422855377
+MPNet,climate index,4,1825,0.4864101707935333
+MPNet,climate index,4,1828,0.474502295255661
+MPNet,climate index,4,1774,0.4690035283565521
+MPNet,climate index,4,1813,0.4645426571369171
+MPNet,climate indicator,5,2059,0.4753897190093994
+MPNet,climate indicator,4,1825,0.4743852913379669
+MPNet,climate indicator,4,1768,0.46865302324295044
+MPNet,climate indicator,0,590,0.4611300826072693
+MPNet,climate indicator,4,1826,0.4600982964038849
+MPNet,climate information,4,1707,0.565301775932312
+MPNet,climate information,4,1774,0.5631396770477295
+MPNet,climate information,4,1816,0.538741409778595
+MPNet,climate information,0,243,0.537635326385498
+MPNet,climate information,4,1813,0.5308775901794434
+MPNet,climate justice,4,1707,0.4875822961330414
+MPNet,climate justice,4,1773,0.47738271951675415
+MPNet,climate justice,4,1813,0.4645204246044159
+MPNet,climate justice,4,1779,0.44571998715400696
+MPNet,climate justice,4,1774,0.44242021441459656
+MPNet,climate literacy,4,1774,0.5195852518081665
+MPNet,climate literacy,4,1837,0.46074533462524414
+MPNet,climate literacy,4,1813,0.45012426376342773
+MPNet,climate literacy,0,243,0.4329858124256134
+MPNet,climate literacy,4,1773,0.41990751028060913
+MPNet,climate metrics,4,1813,0.4455711841583252
+MPNet,climate metrics,4,1825,0.4334747791290283
+MPNet,climate metrics,4,1828,0.4154023826122284
+MPNet,climate model,4,1813,0.42506828904151917
+MPNet,climate projection,4,1813,0.4473283588886261
+MPNet,climate projection,5,2059,0.44390684366226196
+MPNet,climate projection,4,1774,0.4436100125312805
+MPNet,climate projection,0,243,0.4279649555683136
+MPNet,climate projection,5,2077,0.41409099102020264
+MPNet,climate resilient development,4,1813,0.5799356698989868
+MPNet,climate resilient development,4,1773,0.5375878214836121
+MPNet,climate resilient development,4,1774,0.5116457939147949
+MPNet,climate resilient development,4,1815,0.5018651485443115
+MPNet,climate resilient development,4,1707,0.4951947033405304
+MPNet,climate resilient development pathways,4,1773,0.5543524026870728
+MPNet,climate resilient development pathways,4,1774,0.5440282821655273
+MPNet,climate resilient development pathways,4,1707,0.536555826663971
+MPNet,climate resilient development pathways,4,1813,0.5358409285545349
+MPNet,climate resilient development pathways,4,1815,0.5111777782440186
+MPNet,climate-resilient pathways,4,1774,0.5774210095405579
+MPNet,climate-resilient pathways,4,1813,0.5716739892959595
+MPNet,climate-resilient pathways,4,1707,0.5486328601837158
+MPNet,climate-resilient pathways,4,1773,0.5324238538742065
+MPNet,climate-resilient pathways,4,1700,0.5028203725814819
+MPNet,climate response,4,1813,0.5149493217468262
+MPNet,climate response,4,1774,0.45147499442100525
+MPNet,climate response,0,243,0.4302598536014557
+MPNet,climate response,4,1707,0.41967350244522095
+MPNet,climate response,5,2059,0.41346433758735657
+MPNet,climate sensitivity,4,1813,0.46558237075805664
+MPNet,climate services,4,1774,0.4816674292087555
+MPNet,climate services,4,1707,0.44278550148010254
+MPNet,climate services,4,1813,0.4291468560695648
+MPNet,climate simulation ensemble,4,1813,0.4054693579673767
+MPNet,climate simulation ensemble,4,1707,0.40458017587661743
+MPNet,climate-smart agriculture,4,1813,0.439014732837677
+MPNet,climate-smart agriculture,4,1774,0.4304918944835663
+MPNet,climate-smart agriculture,0,243,0.41599422693252563
+MPNet,climate system,4,1813,0.41269451379776
+MPNet,climatic driver,0,243,0.46104609966278076
+MPNet,climatic driver,4,1813,0.4511043429374695
+MPNet,climatic driver,0,590,0.41629689931869507
+MPNet,climatic impact-driver,0,243,0.4863393306732178
+MPNet,climatic impact-driver,0,590,0.44792038202285767
+MPNet,climatic impact-driver,4,1813,0.4457313120365143
+MPNet,climatic impact-driver,0,244,0.40694674849510193
+MPNet,coast,4,1814,0.4628910720348358
+MPNet,coast,4,1818,0.4307142496109009
+MPNet,coastal erosion,4,1818,0.46028611063957214
+MPNet,coastal erosion,4,1814,0.4416879117488861
+MPNet,coastal erosion,4,1817,0.4075259566307068
+MPNet,community-based adaptation,4,1813,0.45125022530555725
+MPNet,community-based adaptation,4,1774,0.44994932413101196
+MPNet,community-based adaptation,0,243,0.4445444941520691
+MPNet,compatible emissions,4,1772,0.4056061804294586
+MPNet,compound risks,5,2092,0.4465447962284088
+MPNet,compound risks,5,2091,0.4247760772705078
+MPNet,compound risks,5,2090,0.4036921262741089
+MPNet,compound weather/climate events,5,2090,0.4555109441280365
+MPNet,compound weather/climate events,5,2092,0.42644622921943665
+MPNet,concentrations scenario,5,2059,0.43603238463401794
+MPNet,concentrations scenario,0,590,0.43474793434143066
+MPNet,concentrations scenario,3,1664,0.43346652388572693
+MPNet,concentrations scenario,0,243,0.4258573651313782
+MPNet,concentrations scenario,0,716,0.42006421089172363
+MPNet,Conference of the Parties,0,22,0.4785739481449127
+MPNet,Conference of the Parties,4,1742,0.4533226490020752
+MPNet,Conference of the Parties,0,172,0.4262710511684418
+MPNet,Conference of the Parties,4,1707,0.40861645340919495
+MPNet,Conference of the Parties,0,173,0.4018503725528717
+MPNet,conservation agriculture,0,583,0.5174039006233215
+MPNet,conservation agriculture,1,811,0.5003897547721863
+MPNet,conservation agriculture,7,2241,0.4973370134830475
+MPNet,conservation agriculture,0,229,0.48697784543037415
+MPNet,conservation agriculture,0,469,0.4839276373386383
+MPNet,coral bleaching,4,1783,0.4104536771774292
+MPNet,cost–benefit analysis,4,1707,0.47951576113700867
+MPNet,cost–benefit analysis,5,2077,0.4580034017562866
+MPNet,cost–benefit analysis,3,1440,0.4477963447570801
+MPNet,cost–benefit analysis,5,1956,0.4391537606716156
+MPNet,cost–benefit analysis,0,243,0.43603959679603577
+MPNet,cost-effectiveness analysis,4,1707,0.5097671151161194
+MPNet,cost-effectiveness analysis,4,1813,0.49069666862487793
+MPNet,cost-effectiveness analysis,4,1773,0.43354254961013794
+MPNet,cost-effectiveness analysis,4,1700,0.430581271648407
+MPNet,cost-effectiveness analysis,5,1956,0.42734771966934204
+MPNet,Coupled Model Intercomparison Project,4,1707,0.45709818601608276
+MPNet,Coupled Model Intercomparison Project,4,1700,0.43091657757759094
+MPNet,Coupled Model Intercomparison Project,4,1828,0.4222863018512726
+MPNet,Coupled Model Intercomparison Project,4,1825,0.41645535826683044
+MPNet,Coupled Model Intercomparison Project,4,1708,0.40955305099487305
+MPNet,cultural impacts,0,243,0.5648800730705261
+MPNet,cultural impacts,0,501,0.5226114392280579
+MPNet,cultural impacts,0,214,0.5157689452171326
+MPNet,cultural impacts,5,1958,0.508893609046936
+MPNet,cultural impacts,0,136,0.5006054043769836
+MPNet,Dansgaard-Oeschger events,4,1684,0.44299980998039246
+MPNet,Dansgaard-Oeschger events,4,1770,0.4383408725261688
+MPNet,Dansgaard-Oeschger events,4,1685,0.41853493452072144
+MPNet,Dansgaard-Oeschger events,2,1257,0.4166688621044159
+MPNet,Dansgaard-Oeschger events,4,1815,0.4115194082260132
+MPNet,decarbonisation,5,2079,0.5913042426109314
+MPNet,decarbonisation,4,1775,0.4927409291267395
+MPNet,decarbonisation,0,243,0.48815715312957764
+MPNet,decarbonisation,4,1707,0.48700281977653503
+MPNet,decarbonisation,4,1773,0.48011696338653564
+MPNet,Decent Living Standard,0,314,0.4309461712837219
+MPNet,deforestation,1,812,0.41207537055015564
+MPNet,deliberate transformations,0,243,0.5026969313621521
+MPNet,deliberate transformations,0,501,0.42942169308662415
+MPNet,deliberate transformations,3,1664,0.42388802766799927
+MPNet,deliberate transformations,0,53,0.42198699712753296
+MPNet,deliberate transformations,3,1644,0.41602951288223267
+MPNet,deliberative governance,0,209,0.44463369250297546
+MPNet,desertification,3,1664,0.4975835680961609
+MPNet,desertification,0,243,0.46966826915740967
+MPNet,desertification,2,1104,0.4559808671474457
+MPNet,desertification,1,812,0.4451538026332855
+MPNet,desertification,0,716,0.4322444796562195
+MPNet,detection,0,243,0.4134727716445923
+MPNet,developed/developing countries,4,1681,0.49797648191452026
+MPNet,developed/developing countries,0,215,0.48370179533958435
+MPNet,developed/developing countries,4,1680,0.43665656447410583
+MPNet,developed/developing countries,0,52,0.4272434711456299
+MPNet,developed/developing countries,0,295,0.4211864769458771
+MPNet,diatoms,4,1821,0.4363577663898468
+MPNet,diatoms,4,1710,0.4155646860599518
+MPNet,dimensions of integration,4,1774,0.6068278551101685
+MPNet,dimensions of integration,4,1773,0.5767752528190613
+MPNet,dimensions of integration,4,1813,0.5766010880470276
+MPNet,dimensions of integration,4,1707,0.5647353529930115
+MPNet,dimensions of integration,4,1815,0.5562333464622498
+MPNet,disaster,5,2090,0.6123244166374207
+MPNet,disaster,5,2091,0.49202361702919006
+MPNet,disaster,0,245,0.4463789463043213
+MPNet,disaster,2,1173,0.42737993597984314
+MPNet,disaster,5,2095,0.4180346429347992
+MPNet,disaster management,2,1173,0.5263330936431885
+MPNet,disaster management,5,2090,0.5228474736213684
+MPNet,disaster management,4,1723,0.4610816538333893
+MPNet,disaster management,2,1241,0.44754481315612793
+MPNet,disaster management,5,2098,0.44353988766670227
+MPNet,disaster risk,5,2090,0.48061633110046387
+MPNet,disaster risk,5,2091,0.45846033096313477
+MPNet,disaster risk,2,1173,0.44793835282325745
+MPNet,disaster risk,0,245,0.4380393326282501
+MPNet,disaster risk,5,2092,0.4285430908203125
+MPNet,disaster risk management,2,1173,0.5733422040939331
+MPNet,disaster risk management,5,2090,0.5026367902755737
+MPNet,disaster risk management,5,2164,0.4648277759552002
+MPNet,disaster risk management,5,2098,0.4611670970916748
+MPNet,disaster risk management,5,2163,0.45479923486709595
+MPNet,disaster risk reduction,2,1173,0.5290065407752991
+MPNet,disaster risk reduction,5,2090,0.4787891209125519
+MPNet,disaster risk reduction,4,1816,0.4673442542552948
+MPNet,disaster risk reduction,5,2163,0.45533666014671326
+MPNet,disaster risk reduction,4,1813,0.45108622312545776
+MPNet,drainage,5,2067,0.5668835043907166
+MPNet,drainage,5,2069,0.5446420311927795
+MPNet,drainage,3,1662,0.518446147441864
+MPNet,drainage,0,482,0.516445517539978
+MPNet,drainage,5,2085,0.5089138746261597
+MPNet,drought,0,245,0.4232051968574524
+MPNet,drought,5,2073,0.4182872176170349
+MPNet,drought,5,2067,0.4146497845649719
+MPNet,early warning systems,4,1813,0.48412373661994934
+MPNet,early warning systems,4,1816,0.45422664284706116
+MPNet,early warning systems,5,2099,0.4519914388656616
+MPNet,early warning systems,4,1708,0.4418221712112427
+MPNet,early warning systems,0,245,0.4375917613506317
+MPNet,earth’s energy budget,4,1813,0.459598183631897
+MPNet,earth's energy imbalance,4,1813,0.41337600350379944
+MPNet,earth's energy imbalance,3,1664,0.41296181082725525
+MPNet,earth's energy imbalance,5,2079,0.40844470262527466
+MPNet,earth system feedbacks,4,1774,0.48835673928260803
+MPNet,earth system feedbacks,4,1813,0.48688459396362305
+MPNet,earth system feedbacks,0,243,0.46072667837142944
+MPNet,earth system feedbacks,4,1707,0.4607126712799072
+MPNet,earth system feedbacks,0,590,0.4579854905605316
+MPNet,earth system model,4,1772,0.4458242356777191
+MPNet,earth system model,4,1775,0.4430144727230072
+MPNet,earth system model,4,1813,0.424168199300766
+MPNet,earth system model,4,1700,0.4072475731372833
+MPNet,earth system sensitivity,4,1813,0.4647796154022217
+MPNet,earth system sensitivity,4,1769,0.4183386266231537
+MPNet,earth system sensitivity,4,1815,0.4155261814594269
+MPNet,earth system sensitivity,3,1659,0.4084799289703369
+MPNet,earth system sensitivity,4,1700,0.40659305453300476
+MPNet,ecosystem,0,143,0.46842408180236816
+MPNet,ecosystem,0,144,0.4455062448978424
+MPNet,ecosystem-based adaptation,4,1774,0.6515868306159973
+MPNet,ecosystem-based adaptation,4,1813,0.6221968531608582
+MPNet,ecosystem-based adaptation,0,243,0.5661220550537109
+MPNet,ecosystem-based adaptation,4,1825,0.5414384603500366
+MPNet,ecosystem-based adaptation,4,1828,0.532440721988678
+MPNet,ecosystem health,0,144,0.4176214933395386
+MPNet,ecosystem health,0,143,0.41506195068359375
+MPNet,ecosystem health,0,243,0.40095579624176025
+MPNet,ecosystem services,0,143,0.5273066759109497
+MPNet,ecosystem services,0,144,0.4688565731048584
+MPNet,ecosystem services,4,1720,0.45920103788375854
+MPNet,ecosystem services,4,1794,0.45807331800460815
+MPNet,ecosystem services,0,201,0.45274946093559265
+MPNet,effective equilibrium climate sensitivity,4,1813,0.4397919476032257
+MPNet,effective equilibrium climate sensitivity,5,2059,0.4169378876686096
+MPNet,ekman transport,4,1803,0.4146672189235687
+MPNet,"embodied  [emissions, water, land]",4,1775,0.4370793402194977
+MPNet,"embodied  [emissions, water, land]",3,1664,0.40783247351646423
+MPNet,"embodied  [emissions, water, land]",0,243,0.4061075747013092
+MPNet,"embodied  [emissions, water, land]",5,2079,0.4027637541294098
+MPNet,emergence,0,243,0.48429110646247864
+MPNet,emergence,4,1813,0.4549151360988617
+MPNet,emergence,0,292,0.4261866509914398
+MPNet,emergence,0,590,0.4108579754829407
+MPNet,emergence,5,2059,0.4102313220500946
+MPNet,Emission and Socio-economic Scenario Ensemble,4,1707,0.46819382905960083
+MPNet,Emission and Socio-economic Scenario Ensemble,4,1775,0.4539869725704193
+MPNet,Emission and Socio-economic Scenario Ensemble,5,2079,0.4537322521209717
+MPNet,Emission and Socio-economic Scenario Ensemble,1,804,0.4516460597515106
+MPNet,Emission and Socio-economic Scenario Ensemble,4,1828,0.4334474503993988
+MPNet,emission pathways,5,2079,0.4393695592880249
+MPNet,emissions scenario,3,1664,0.4486762583255768
+MPNet,emissions scenario,0,243,0.44801679253578186
+MPNet,emissions scenario,0,590,0.43898409605026245
+MPNet,emissions scenario,4,1775,0.4299986660480499
+MPNet,emissions scenario,5,2059,0.42960116267204285
+MPNet,enabling conditions,0,243,0.44165313243865967
+MPNet,enabling conditions,4,1774,0.43758299946784973
+MPNet,enabling conditions,4,1680,0.4356783926486969
+MPNet,enabling conditions,4,1773,0.42768943309783936
+MPNet,enabling conditions,4,1707,0.4239547550678253
+MPNet,energy access,5,2076,0.4725130796432495
+MPNet,energy access,5,2083,0.47075772285461426
+MPNet,energy access,3,1378,0.46134552359580994
+MPNet,energy access,5,2077,0.4468488395214081
+MPNet,energy access,3,1646,0.44553476572036743
+MPNet,energy poverty,5,2076,0.4810218811035156
+MPNet,energy poverty,3,1663,0.43204301595687866
+MPNet,energy poverty,5,2083,0.4263741672039032
+MPNet,energy poverty,4,1807,0.4209897518157959
+MPNet,energy poverty,3,1664,0.4145907461643219
+MPNet,energy security,3,1378,0.4248846471309662
+MPNet,energy security,4,1807,0.40638068318367004
+MPNet,enhanced weathering,4,1772,0.4107246696949005
+MPNet,equilibrium climate sensitivity,4,1813,0.4457255005836487
+MPNet,equilibrium climate sensitivity,5,2059,0.42544025182724
+MPNet,eutrophication,9,2476,0.43374261260032654
+MPNet,exposure,5,2092,0.4706234335899353
+MPNet,exposure,0,243,0.4578710198402405
+MPNet,exposure,5,2091,0.453158974647522
+MPNet,exposure,4,1794,0.4376961588859558
+MPNet,exposure,0,246,0.42849165201187134
+MPNet,extended concentration pathways,0,292,0.4209148585796356
+MPNet,extended concentration pathways,5,2167,0.40121087431907654
+MPNet,extreme sea level,4,1768,0.5516669154167175
+MPNet,extreme sea level,4,1817,0.536871075630188
+MPNet,extreme sea level,4,1815,0.515903115272522
+MPNet,extreme sea level,4,1771,0.5102740526199341
+MPNet,extreme sea level,4,1769,0.505894660949707
+MPNet,feasibility,4,1813,0.6300856471061707
+MPNet,feasibility,4,1707,0.6166868805885315
+MPNet,feasibility,4,1774,0.6165924072265625
+MPNet,feasibility,4,1773,0.6024333238601685
+MPNet,feasibility,0,243,0.5893862247467041
+MPNet,fitness-for-purpose,4,1813,0.44736582040786743
+MPNet,fitness-for-purpose,5,2059,0.4468071758747101
+MPNet,fitness-for-purpose,4,1825,0.4367580711841583
+MPNet,fitness-for-purpose,4,1707,0.4245581030845642
+MPNet,fitness-for-purpose,4,1828,0.4095844030380249
+MPNet,flaring,5,2092,0.4003618657588959
+MPNet,flexibility,5,2076,0.45085346698760986
+MPNet,flexibility,5,2077,0.4454294443130493
+MPNet,flexibility,3,1644,0.4206322431564331
+MPNet,flexibility,3,1664,0.40688902139663696
+MPNet,flexibility,6,2193,0.4045906066894531
+MPNet,flexible governance,1,843,0.4425528049468994
+MPNet,flexible governance,0,167,0.4388609230518341
+MPNet,flexible governance,0,215,0.4319878816604614
+MPNet,flexible governance,1,839,0.4254348874092102
+MPNet,flexible governance,0,27,0.42323940992355347
+MPNet,flood,2,1110,0.5106920599937439
+MPNet,flood,5,2061,0.4510597586631775
+MPNet,flood,3,1409,0.4099958837032318
+MPNet,flood,1,819,0.4027591347694397
+MPNet,forest degradation,1,812,0.47034844756126404
+MPNet,glacial-interglacial cycles,4,1825,0.41380104422569275
+MPNet,glacial-interglacial cycles,3,1659,0.40579816699028015
+MPNet,glacial-interglacial cycles,4,1815,0.4038783609867096
+MPNet,glacial or glaciation,1,930,0.40327638387680054
+MPNet,glaciated,1,904,0.4095248579978943
+MPNet,Global Environment Facility,2,1249,0.4725422263145447
+MPNet,Global Environment Facility,2,1250,0.4616965651512146
+MPNet,Global Environment Facility,4,1854,0.45299023389816284
+MPNet,Global Environment Facility,4,1766,0.44574934244155884
+MPNet,Global Environment Facility,1,856,0.4359229803085327
+MPNet,global carbon budget,4,1775,0.5296212434768677
+MPNet,global carbon budget,4,1700,0.49001914262771606
+MPNet,global carbon budget,4,1854,0.489065021276474
+MPNet,global carbon budget,4,1773,0.48678961396217346
+MPNet,global carbon budget,4,1825,0.48676392436027527
+MPNet,global change,0,243,0.5007904171943665
+MPNet,global change,4,1825,0.4823908507823944
+MPNet,global change,4,1813,0.4677058756351471
+MPNet,global change,4,1774,0.4470074474811554
+MPNet,global change,4,1770,0.4455413520336151
+MPNet,global energy inventory,4,1812,0.40180703997612
+MPNet,global mean sea level  change,4,1768,0.4992029666900635
+MPNet,global mean sea level  change,4,1815,0.4785870611667633
+MPNet,global mean sea level  change,4,1772,0.47027286887168884
+MPNet,global mean sea level  change,4,1769,0.4566418528556824
+MPNet,global mean sea level  change,4,1708,0.4470862150192261
+MPNet,global mean surface temperature,4,1826,0.43281710147857666
+MPNet,global warming,4,1825,0.43109074234962463
+MPNet,global warming,4,1815,0.4268113374710083
+MPNet,global warming,4,1768,0.41958701610565186
+MPNet,global warming,4,1813,0.4085330069065094
+MPNet,global warming,0,243,0.40254560112953186
+MPNet,governance,0,209,0.46408361196517944
+MPNet,governance,0,215,0.41187965869903564
+MPNet,governance,0,194,0.4086744487285614
+MPNet,governance,0,13,0.403823584318161
+MPNet,governance capacity,0,215,0.4309796094894409
+MPNet,governance capacity,1,788,0.40573298931121826
+MPNet,governance capacity,0,259,0.4054025411605835
+MPNet,governance capacity,4,1742,0.40187227725982666
+MPNet,"gravitational, rotational and deformational  effects",4,1768,0.4314064383506775
+MPNet,"gravitational, rotational and deformational  effects",4,1815,0.41893434524536133
+MPNet,grazing land,0,583,0.5065045356750488
+MPNet,grazing land,3,1573,0.4385378360748291
+MPNet,grazing land,1,811,0.4246682822704315
+MPNet,grazing land,3,1664,0.4232414662837982
+MPNet,grazing land,0,465,0.4026632606983185
+MPNet,Green Climate Fund,4,1707,0.4956431984901428
+MPNet,Green Climate Fund,4,1773,0.474357008934021
+MPNet,Green Climate Fund,4,1813,0.4685226082801819
+MPNet,Green Climate Fund,4,1680,0.46539440751075745
+MPNet,Green Climate Fund,4,1700,0.4631606638431549
+MPNet,green infrastructure,0,243,0.5896883606910706
+MPNet,green infrastructure,5,2088,0.5847413539886475
+MPNet,green infrastructure,0,285,0.5666982531547546
+MPNet,green infrastructure,3,1440,0.5495171546936035
+MPNet,green infrastructure,3,1664,0.5444422960281372
+MPNet,greenhouse gas emission metric,4,1775,0.4935365319252014
+MPNet,greenhouse gas emission metric,4,1772,0.4843873977661133
+MPNet,greenhouse gas emission metric,4,1825,0.4690367877483368
+MPNet,greenhouse gas emission metric,5,2079,0.4649762809276581
+MPNet,greenhouse gas emission metric,4,1768,0.4623146951198578
+MPNet,greenhouse gas neutrality,5,2079,0.5058081746101379
+MPNet,greenhouse gas neutrality,4,1772,0.49915504455566406
+MPNet,greenhouse gas neutrality,4,1775,0.4922347962856293
+MPNet,greenhouse gas neutrality,4,1700,0.4809767007827759
+MPNet,greenhouse gas neutrality,4,1707,0.4796481728553772
+MPNet,grey infrastructure,5,2091,0.44619596004486084
+MPNet,grey infrastructure,3,1642,0.4409143030643463
+MPNet,grey infrastructure,0,471,0.4282384216785431
+MPNet,grey infrastructure,3,1641,0.4233078956604004
+MPNet,grey infrastructure,3,1542,0.4099588096141815
+MPNet,halosteric sea level change,4,1769,0.4300501346588135
+MPNet,halosteric sea level change,4,1768,0.4255821406841278
+MPNet,halosteric sea level change,4,1815,0.4047153890132904
+MPNet,hazard,5,2091,0.5127124190330505
+MPNet,hazard,5,2090,0.4838123321533203
+MPNet,hazard,5,2092,0.4619581997394562
+MPNet,hazard,0,245,0.4167512357234955
+MPNet,hazard,2,1101,0.4042518138885498
+MPNet,heinrich event,4,1696,0.4099419414997101
+MPNet,human influence on the climate system,0,243,0.4566431939601898
+MPNet,human influence on the climate system,4,1813,0.4378667175769806
+MPNet,human influence on the climate system,4,1774,0.42080241441726685
+MPNet,human influence on the climate system,0,590,0.42006856203079224
+MPNet,human influence on the climate system,3,1659,0.41585683822631836
+MPNet,human security,4,1813,0.4383617341518402
+MPNet,human security,4,1773,0.41223472356796265
+MPNet,human security,4,1707,0.4005298614501953
+MPNet,hydrological cycle,3,1664,0.4104567766189575
+MPNet,hydrological cycle,5,2070,0.4014474153518677
+MPNet,hydrological drought,5,2073,0.5241001844406128
+MPNet,hydrological drought,5,2067,0.5207089185714722
+MPNet,hydrological drought,5,2069,0.4889443814754486
+MPNet,hydrological drought,3,1659,0.48136797547340393
+MPNet,hydrological drought,5,2086,0.47212690114974976
+MPNet,hydrological sensitivity,4,1813,0.48393550515174866
+MPNet,hydrological sensitivity,3,1659,0.4653131067752838
+MPNet,hydrological sensitivity,5,2059,0.45868563652038574
+MPNet,hydrological sensitivity,2,1112,0.44084450602531433
+MPNet,hydrological sensitivity,10,2605,0.42594006657600403
+MPNet,hydropower,3,1646,0.555568277835846
+MPNet,hydropower,3,1647,0.4996708333492279
+MPNet,hydropower,3,1663,0.49257951974868774
+MPNet,hydropower,3,1378,0.48581555485725403
+MPNet,hydropower,3,1645,0.4487578272819519
+MPNet,hypoxic events,9,2476,0.4605614244937897
+MPNet,impacts,0,243,0.552378237247467
+MPNet,impacts,4,1813,0.5183011889457703
+MPNet,impacts,0,244,0.5021380186080933
+MPNet,impacts,0,245,0.49278730154037476
+MPNet,impacts,4,1816,0.4886970818042755
+MPNet,incremental adaptation,4,1774,0.5170656442642212
+MPNet,incremental adaptation,4,1813,0.49323007464408875
+MPNet,incremental adaptation,0,243,0.46836432814598083
+MPNet,incremental adaptation,4,1815,0.42820626497268677
+MPNet,incremental adaptation,4,1769,0.411207914352417
+MPNet,Indian Ocean basin  mode,4,1768,0.42084962129592896
+MPNet,Indian Ocean basin  mode,4,1680,0.4121221899986267
+MPNet,indigenous knowledge,0,501,0.5075778961181641
+MPNet,indigenous knowledge,4,1837,0.506348729133606
+MPNet,indigenous knowledge,4,1832,0.46570488810539246
+MPNet,indigenous knowledge,4,1782,0.4512034058570862
+MPNet,indigenous knowledge,2,1145,0.4309769868850708
+MPNet,indirect land-use change,3,1664,0.4795711934566498
+MPNet,indirect land-use change,0,716,0.4215719997882843
+MPNet,indirect land-use change,3,1440,0.4140567481517792
+MPNet,indirect land-use change,0,243,0.40890729427337646
+MPNet,informal settlement,0,240,0.5145354270935059
+MPNet,informal settlement,0,516,0.46618983149528503
+MPNet,informal settlement,0,52,0.4632952809333801
+MPNet,informal settlement,0,326,0.46316754817962646
+MPNet,informal settlement,0,53,0.45188185572624207
+MPNet,infrastructure,3,1433,0.4427611827850342
+MPNet,infrastructure,3,1641,0.43553754687309265
+MPNet,infrastructure,3,1642,0.4316667318344116
+MPNet,infrastructure,3,1440,0.43031397461891174
+MPNet,infrastructure,5,1914,0.4299735426902771
+MPNet,institutional capacity,0,186,0.5331373810768127
+MPNet,institutional capacity,0,259,0.530303955078125
+MPNet,institutional capacity,0,191,0.47177156805992126
+MPNet,institutional capacity,0,215,0.4616256654262543
+MPNet,institutional capacity,3,1673,0.45874062180519104
+MPNet,institutions,0,209,0.42524969577789307
+MPNet,institutions,0,122,0.4109452962875366
+MPNet,integrated assessment,4,1828,0.570767879486084
+MPNet,integrated assessment,0,243,0.5647087693214417
+MPNet,integrated assessment,3,1440,0.5234015583992004
+MPNet,integrated assessment,4,1824,0.5124551057815552
+MPNet,integrated assessment,4,1813,0.5066474676132202
+MPNet,integrated assessment model,4,1813,0.5371910333633423
+MPNet,integrated assessment model,0,243,0.5212607979774475
+MPNet,integrated assessment model,4,1775,0.5127684473991394
+MPNet,integrated assessment model,4,1700,0.5054266452789307
+MPNet,integrated assessment model,4,1774,0.5030499696731567
+MPNet,integrated assessment scenario ensemble,3,1440,0.43573495745658875
+MPNet,integrated assessment scenario ensemble,1,788,0.4124046862125397
+MPNet,integrated assessment scenario ensemble,4,1828,0.4117580056190491
+MPNet,integrated assessment scenario ensemble,5,1956,0.40466710925102234
+MPNet,integrated assessment scenario ensemble,4,1707,0.40450993180274963
+MPNet,Inter-decadal Pacific Oscillation,4,1774,0.4295932948589325
+MPNet,Inter-decadal Pacific Oscillation,4,1680,0.41659119725227356
+MPNet,Inter-decadal Pacific Oscillation,4,1768,0.4135609567165375
+MPNet,interglacial or interglaciation,1,930,0.4049951434135437
+MPNet,just transitions,3,1644,0.51503986120224
+MPNet,just transitions,4,1775,0.4894826114177704
+MPNet,just transitions,4,1773,0.4841045141220093
+MPNet,just transitions,4,1707,0.47110670804977417
+MPNet,just transitions,3,1378,0.46046140789985657
+MPNet,key climate indicators,4,1828,0.5476464629173279
+MPNet,key climate indicators,0,243,0.5324485898017883
+MPNet,key climate indicators,4,1825,0.5255787968635559
+MPNet,key climate indicators,5,2059,0.5224675536155701
+MPNet,key climate indicators,4,1774,0.5177244544029236
+MPNet,key risk,5,2092,0.5804625153541565
+MPNet,key risk,5,2059,0.5538791418075562
+MPNet,key risk,4,1813,0.5232011675834656
+MPNet,key risk,0,245,0.5126014351844788
+MPNet,key risk,5,2095,0.5008690357208252
+MPNet,land,3,1664,0.44873660802841187
+MPNet,land,0,326,0.4441356360912323
+MPNet,land,0,53,0.41521620750427246
+MPNet,land cover,3,1664,0.48380714654922485
+MPNet,land cover,0,326,0.4807531237602234
+MPNet,land cover,3,1573,0.46224090456962585
+MPNet,land cover,0,325,0.456346720457077
+MPNet,land cover,0,583,0.4329296350479126
+MPNet,land-cover change,0,243,0.4972752332687378
+MPNet,land-cover change,0,716,0.4742070436477661
+MPNet,land-cover change,0,326,0.47371989488601685
+MPNet,land-cover change,3,1664,0.468856543302536
+MPNet,land-cover change,0,325,0.43696266412734985
+MPNet,land degradation,0,243,0.44162026047706604
+MPNet,land degradation,3,1664,0.4290013611316681
+MPNet,land degradation,1,811,0.42862534523010254
+MPNet,land degradation,1,812,0.4199044704437256
+MPNet,land degradation,0,53,0.41196152567863464
+MPNet,land degradation neutrality,0,144,0.4512260854244232
+MPNet,land degradation neutrality,0,223,0.45110487937927246
+MPNet,land degradation neutrality,0,224,0.4448770582675934
+MPNet,land degradation neutrality,0,393,0.444434255361557
+MPNet,land degradation neutrality,0,229,0.44361552596092224
+MPNet,land management,1,956,0.46178367733955383
+MPNet,land management,0,242,0.4575534164905548
+MPNet,land management,3,1573,0.4524191617965698
+MPNet,land management,0,326,0.45039495825767517
+MPNet,land management,0,243,0.4478078782558441
+MPNet,land management change,0,243,0.49018147587776184
+MPNet,land management change,0,242,0.4125613868236542
+MPNet,land management change,0,32,0.41062331199645996
+MPNet,land potential,3,1664,0.5253197550773621
+MPNet,land potential,0,243,0.4927988350391388
+MPNet,land potential,0,53,0.4917809069156647
+MPNet,land potential,0,16,0.47212228178977966
+MPNet,land potential,0,144,0.470083624124527
+MPNet,land rehabilitation,1,962,0.5999118089675903
+MPNet,land rehabilitation,0,30,0.5157178640365601
+MPNet,land rehabilitation,0,568,0.4949178397655487
+MPNet,land rehabilitation,0,234,0.48498255014419556
+MPNet,land rehabilitation,1,956,0.48396575450897217
+MPNet,land restoration,1,962,0.5962604284286499
+MPNet,land restoration,0,568,0.5298531651496887
+MPNet,land restoration,0,438,0.5270522832870483
+MPNet,land restoration,0,53,0.5152811408042908
+MPNet,land restoration,1,956,0.5075455904006958
+MPNet,land use,3,1664,0.5414743423461914
+MPNet,land use,3,1573,0.4870259463787079
+MPNet,land use,0,326,0.48485347628593445
+MPNet,land use,0,243,0.4458720088005066
+MPNet,land use,3,1440,0.43003544211387634
+MPNet,"land use, land-use change and forestry",3,1664,0.46932581067085266
+MPNet,"land use, land-use change and forestry",1,812,0.4545239210128784
+MPNet,"land use, land-use change and forestry",4,1700,0.4525772035121918
+MPNet,"land use, land-use change and forestry",4,1825,0.4518464207649231
+MPNet,"land use, land-use change and forestry",0,716,0.4345264136791229
+MPNet,land-use change,0,243,0.4789224863052368
+MPNet,land-use change,3,1664,0.44995400309562683
+MPNet,land-use change,0,716,0.42291584610939026
+MPNet,land-use change,0,326,0.4114309847354889
+MPNet,land-use change,0,654,0.4032147526741028
+MPNet,land water storage,5,2067,0.585988461971283
+MPNet,land water storage,3,1659,0.531772792339325
+MPNet,land water storage,5,2167,0.5235557556152344
+MPNet,land water storage,0,482,0.5114834904670715
+MPNet,land water storage,5,2070,0.5047187209129333
+MPNet,large-scale,4,1770,0.4465824365615845
+MPNet,large-scale,4,1768,0.4393182694911957
+MPNet,large-scale,4,1774,0.4377247393131256
+MPNet,large-scale,4,1813,0.43703678250312805
+MPNet,large-scale,4,1825,0.4352845847606659
+MPNet,leapfrogging,3,1378,0.4061487019062042
+MPNet,Least Developed Countries,4,1680,0.45456942915916443
+MPNet,Least Developed Countries,0,215,0.44874998927116394
+MPNet,Least Developed Countries,0,21,0.43706628680229187
+MPNet,Least Developed Countries,4,1681,0.43088898062705994
+MPNet,Least Developed Countries,4,1766,0.4083560109138489
+MPNet,lifecycle assessment,5,1956,0.41591885685920715
+MPNet,lifecycle assessment,3,1440,0.4020920991897583
+MPNet,local knowledge,4,1837,0.5453945994377136
+MPNet,local knowledge,0,501,0.47769996523857117
+MPNet,local knowledge,0,243,0.4688367545604706
+MPNet,local knowledge,4,1708,0.4413558840751648
+MPNet,local knowledge,4,1832,0.4360285997390747
+MPNet,local sea level change,4,1768,0.44595867395401
+MPNet,local sea level change,4,1815,0.4436669647693634
+MPNet,local sea level change,4,1771,0.4336051940917969
+MPNet,local sea level change,4,1817,0.4305668771266937
+MPNet,local sea level change,4,1769,0.42419329285621643
+MPNet,long-lived climate forcers,4,1772,0.4321691691875458
+MPNet,long-lived climate forcers,4,1775,0.4118041694164276
+MPNet,"Loss and Damage, and losses and damages",4,1813,0.5130726099014282
+MPNet,"Loss and Damage, and losses and damages",4,1707,0.4958420693874359
+MPNet,"Loss and Damage, and losses and damages",5,2092,0.49310120940208435
+MPNet,"Loss and Damage, and losses and damages",4,1773,0.48743027448654175
+MPNet,"Loss and Damage, and losses and damages",5,2059,0.487176775932312
+MPNet,Low Elevation Coastal Zones,4,1814,0.41989243030548096
+MPNet,Low Elevation Coastal Zones,1,819,0.41768157482147217
+MPNet,managed forest,1,812,0.5409854650497437
+MPNet,managed forest,1,956,0.5009410381317139
+MPNet,managed forest,1,930,0.4982070326805115
+MPNet,managed forest,0,4,0.48009777069091797
+MPNet,managed forest,0,143,0.4765801429748535
+MPNet,managed grassland,0,583,0.48225265741348267
+MPNet,managed grassland,3,1664,0.47612330317497253
+MPNet,managed grassland,1,811,0.46850821375846863
+MPNet,managed grassland,3,1573,0.44010838866233826
+MPNet,managed grassland,1,956,0.4348571002483368
+MPNet,managed land,3,1664,0.5442807078361511
+MPNet,managed land,1,930,0.5047268867492676
+MPNet,managed land,4,1700,0.5006994605064392
+MPNet,managed land,1,956,0.4996277093887329
+MPNet,managed land,0,243,0.4954630732536316
+MPNet,marine ice sheet instability,4,1770,0.4166722297668457
+MPNet,mean sea level,4,1768,0.4206109642982483
+MPNet,mean sea level,4,1708,0.40241312980651855
+MPNet,measurement,0,284,0.529758870601654
+MPNet,measurement,0,281,0.5120434165000916
+MPNet,measurement,0,278,0.4965320825576782
+MPNet,measurement,0,280,0.4878316819667816
+MPNet,measurement,4,1824,0.46141913533210754
+MPNet,"Measurement, Reporting and Verification",4,1824,0.5470548868179321
+MPNet,"Measurement, Reporting and Verification",4,1825,0.5430638194084167
+MPNet,"Measurement, Reporting and Verification",4,1707,0.5378155708312988
+MPNet,"Measurement, Reporting and Verification",5,2142,0.5295245051383972
+MPNet,"Measurement, Reporting and Verification",4,1826,0.5263444185256958
+MPNet,meteorological drought,0,245,0.4131743311882019
+MPNet,meteorological drought,5,2086,0.40613409876823425
+MPNet,mitigation,4,1774,0.4651307761669159
+MPNet,mitigation,4,1813,0.4603940546512604
+MPNet,mitigation,5,2079,0.4533541798591614
+MPNet,mitigation,4,1707,0.44909146428108215
+MPNet,mitigation,4,1772,0.4465027451515198
+MPNet,mitigation measures,4,1813,0.5051990151405334
+MPNet,mitigation measures,4,1707,0.48319676518440247
+MPNet,mitigation measures,4,1774,0.4800357520580292
+MPNet,mitigation measures,5,2077,0.47256171703338623
+MPNet,mitigation measures,4,1772,0.4542696177959442
+MPNet,mitigation pathways,0,243,0.4977211058139801
+MPNet,mitigation pathways,4,1813,0.49139994382858276
+MPNet,mitigation pathways,5,2079,0.4888187348842621
+MPNet,mitigation pathways,4,1774,0.4853770136833191
+MPNet,mitigation pathways,4,1775,0.4834585189819336
+MPNet,mitigation potential,5,2079,0.4408046305179596
+MPNet,mitigation potential,4,1813,0.423663467168808
+MPNet,mitigation scenario,5,2077,0.49925774335861206
+MPNet,mitigation scenario,4,1813,0.49795109033584595
+MPNet,mitigation scenario,4,1707,0.477068156003952
+MPNet,mitigation scenario,5,2092,0.4730623960494995
+MPNet,mitigation scenario,4,1774,0.4690444767475128
+MPNet,model spread,4,1825,0.4060216546058655
+MPNet,modes of climate variability,4,1813,0.42202338576316833
+MPNet,monitoring and evaluation,0,280,0.5140925049781799
+MPNet,monitoring and evaluation,0,278,0.5126508474349976
+MPNet,monitoring and evaluation,2,1251,0.4913499355316162
+MPNet,monitoring and evaluation,4,1825,0.4861680567264557
+MPNet,monitoring and evaluation,5,2142,0.48370856046676636
+MPNet,Montreal Protocol,4,1772,0.4295123517513275
+MPNet,Montreal Protocol,3,1482,0.4279618263244629
+MPNet,Montreal Protocol,4,1799,0.4210459589958191
+MPNet,Montreal Protocol,4,1801,0.42074814438819885
+MPNet,Montreal Protocol,0,590,0.41413795948028564
+MPNet,mountains,0,326,0.4103238880634308
+MPNet,multi-level governance,4,1742,0.4981333017349243
+MPNet,multi-level governance,1,782,0.48280584812164307
+MPNet,multi-level governance,0,209,0.4580039978027344
+MPNet,multi-level governance,1,781,0.43634504079818726
+MPNet,multi-level governance,0,215,0.43562355637550354
+MPNet,nature-based solutions,4,1781,0.5981419682502747
+MPNet,nature-based solutions,4,1828,0.5742548704147339
+MPNet,nature-based solutions,4,1813,0.5500840544700623
+MPNet,nature-based solutions,4,1818,0.5494577288627625
+MPNet,nature-based solutions,4,1704,0.5487158894538879
+MPNet,nature's contributions to people,0,243,0.4927319288253784
+MPNet,nature's contributions to people,4,1794,0.4896422326564789
+MPNet,nature's contributions to people,4,1818,0.46796467900276184
+MPNet,nature's contributions to people,0,11,0.46537062525749207
+MPNet,nature's contributions to people,4,1813,0.4648195207118988
+MPNet,Net zero CO2 emissions,5,2079,0.4780896008014679
+MPNet,Net zero CO2 emissions,3,1644,0.42239275574684143
+MPNet,Net zero CO2 emissions,4,1772,0.42078134417533875
+MPNet,Net zero CO2 emissions,4,1775,0.4149676561355591
+MPNet,Net zero CO2 emissions,4,1813,0.41205745935440063
+MPNet,net zero greenhouse gas emissions,5,2079,0.5210934281349182
+MPNet,net zero greenhouse gas emissions,4,1772,0.5177954435348511
+MPNet,net zero greenhouse gas emissions,4,1775,0.4924303889274597
+MPNet,net zero greenhouse gas emissions,4,1707,0.48829177021980286
+MPNet,net zero greenhouse gas emissions,4,1700,0.48823055624961853
+MPNet,New Urban Agenda,3,1440,0.5600262880325317
+MPNet,New Urban Agenda,5,1937,0.550774872303009
+MPNet,New Urban Agenda,10,2553,0.5455151796340942
+MPNet,New Urban Agenda,10,2552,0.5332398414611816
+MPNet,New Urban Agenda,3,1640,0.5257805585861206
+MPNet,nitrous oxide,5,2079,0.41137343645095825
+MPNet,Non-CO2 emissions and radiative forcing,4,1775,0.4770055115222931
+MPNet,Non-CO2 emissions and radiative forcing,4,1772,0.4466829001903534
+MPNet,Non-CO2 emissions and radiative forcing,0,243,0.4400210380554199
+MPNet,Non-CO2 emissions and radiative forcing,5,2079,0.43725836277008057
+MPNet,Non-CO2 emissions and radiative forcing,0,590,0.4352858066558838
+MPNet,ocean,4,1844,0.4026574194431305
+MPNet,ocean acidification,4,1775,0.4065868556499481
+MPNet,Ocean alkalinization/Ocean alkalinity enhancement,4,1775,0.465577095746994
+MPNet,Ocean alkalinization/Ocean alkalinity enhancement,4,1772,0.42601680755615234
+MPNet,Ocean alkalinization/Ocean alkalinity enhancement,4,1821,0.4033948481082916
+MPNet,ocean dynamic sea level change,4,1768,0.5147202014923096
+MPNet,ocean dynamic sea level change,4,1771,0.4843999147415161
+MPNet,ocean dynamic sea level change,4,1815,0.473042756319046
+MPNet,ocean dynamic sea level change,4,1769,0.4715220332145691
+MPNet,ocean dynamic sea level change,4,1821,0.46390867233276367
+MPNet,ocean fertilisation,4,1775,0.5155096054077148
+MPNet,ocean fertilisation,4,1821,0.471698135137558
+MPNet,ocean fertilisation,4,1772,0.4642132818698883
+MPNet,ocean fertilisation,4,1770,0.4615461230278015
+MPNet,ocean fertilisation,4,1844,0.4495485723018646
+MPNet,ocean heat uptake efficiency,4,1768,0.5197135210037231
+MPNet,ocean heat uptake efficiency,4,1821,0.5101108551025391
+MPNet,ocean heat uptake efficiency,4,1770,0.49160584807395935
+MPNet,ocean heat uptake efficiency,4,1769,0.47860297560691833
+MPNet,ocean heat uptake efficiency,4,1775,0.4676711857318878
+MPNet,orbital forcing,2,1014,0.4311816692352295
+MPNet,orbital forcing,2,1020,0.42437538504600525
+MPNet,orbital forcing,2,1018,0.40177688002586365
+MPNet,organic farming,0,55,0.4309026896953583
+MPNet,organic farming,7,2241,0.4194874167442322
+MPNet,outbreak,5,2090,0.479937344789505
+MPNet,Pacific Decadal Oscillation,4,1774,0.4051715135574341
+MPNet,pandemic,5,2090,0.4291817247867584
+MPNet,pandemic,5,2095,0.4105618894100189
+MPNet,participatory governance,5,1970,0.4441947937011719
+MPNet,participatory governance,5,1993,0.42544686794281006
+MPNet,participatory governance,0,209,0.41834670305252075
+MPNet,participatory governance,1,843,0.4136759340763092
+MPNet,participatory governance,0,215,0.4080340564250946
+MPNet,pasture,0,583,0.40732014179229736
+MPNet,pathways,4,1828,0.40022334456443787
+MPNet,pattern scaling,5,2059,0.40760743618011475
+MPNet,peat,3,1662,0.4161413908004761
+MPNet,peatlands,3,1662,0.5164541602134705
+MPNet,peatlands,0,626,0.43934550881385803
+MPNet,peatlands,1,812,0.41796305775642395
+MPNet,peri-urban areas,0,295,0.5273643732070923
+MPNet,peri-urban areas,0,240,0.5108168721199036
+MPNet,peri-urban areas,0,243,0.49494311213493347
+MPNet,peri-urban areas,3,1527,0.4942668378353119
+MPNet,peri-urban areas,0,326,0.4930829405784607
+MPNet,phenology,0,243,0.4737299978733063
+MPNet,phenology,0,326,0.4094570577144623
+MPNet,physical climate storyline,4,1813,0.4131813943386078
+MPNet,planetary health,0,501,0.49549728631973267
+MPNet,planetary health,4,1828,0.47253990173339844
+MPNet,planetary health,0,243,0.4645971655845642
+MPNet,planetary health,4,1794,0.46006086468696594
+MPNet,planetary health,4,1844,0.4575956165790558
+MPNet,planned relocation,4,1774,0.47861894965171814
+MPNet,planned relocation,0,242,0.46068570017814636
+MPNet,planned relocation,4,1771,0.4533042311668396
+MPNet,planned relocation,0,32,0.4404391050338745
+MPNet,planned relocation,4,1723,0.43154528737068176
+MPNet,policies,4,1774,0.5145232677459717
+MPNet,policies,3,1433,0.4788579046726227
+MPNet,policies,1,859,0.45568424463272095
+MPNet,policies,3,1458,0.43363040685653687
+MPNet,policies,5,1935,0.4252788722515106
+MPNet,pollen analysis,9,2414,0.4729223847389221
+MPNet,pollen analysis,0,304,0.4640699326992035
+MPNet,pollen analysis,9,2413,0.458490252494812
+MPNet,pollen analysis,1,957,0.44905152916908264
+MPNet,pollen analysis,0,325,0.4339086711406708
+MPNet,polycentric governance,0,209,0.48318254947662354
+MPNet,polycentric governance,4,1742,0.47923433780670166
+MPNet,polycentric governance,5,1993,0.4657205641269684
+MPNet,polycentric governance,0,215,0.45131999254226685
+MPNet,polycentric governance,0,399,0.4397117793560028
+MPNet,potential evapotranspiration,3,1664,0.4059017598628998
+MPNet,potential evapotranspiration,0,483,0.4020049273967743
+MPNet,poverty eradication,0,52,0.49429816007614136
+MPNet,poverty eradication,0,282,0.47970324754714966
+MPNet,poverty eradication,0,53,0.4590025246143341
+MPNet,poverty eradication,0,218,0.4558921456336975
+MPNet,poverty eradication,0,54,0.42795783281326294
+MPNet,poverty trap,0,53,0.41582727432250977
+MPNet,pre-industrial,0,325,0.40882164239883423
+MPNet,proxy,4,1825,0.4524454176425934
+MPNet,proxy,0,243,0.4095727503299713
+MPNet,proxy,4,1824,0.408823162317276
+MPNet,proxy,4,1813,0.401246577501297
+MPNet,reanalysis,4,1825,0.4021337032318115
+MPNet,Reasons for Concern,4,1813,0.5380460023880005
+MPNet,Reasons for Concern,5,2059,0.521863579750061
+MPNet,Reasons for Concern,4,1774,0.5217771530151367
+MPNet,Reasons for Concern,5,2092,0.5130352973937988
+MPNet,Reasons for Concern,4,1815,0.5044451355934143
+MPNet,reconstruction,4,1825,0.41568487882614136
+MPNet,Reducing Emissions from Deforestation and Forest Degradation,4,1720,0.40146535634994507
+MPNet,Reducing Emissions from Deforestation and Forest Degradation,0,586,0.4001348316669464
+MPNet,reference scenario,4,1813,0.5616317987442017
+MPNet,reference scenario,4,1707,0.5437389612197876
+MPNet,reference scenario,4,1815,0.5303987860679626
+MPNet,reference scenario,4,1773,0.5237510204315186
+MPNet,reference scenario,4,1774,0.5195161700248718
+MPNet,reforestation,1,962,0.4433051347732544
+MPNet,reforestation,1,812,0.4023422598838806
+MPNet,refugium,1,761,0.41467970609664917
+MPNet,regenerative agriculture,1,962,0.49963924288749695
+MPNet,regenerative agriculture,7,2241,0.4613291919231415
+MPNet,regenerative agriculture,0,469,0.4381156861782074
+MPNet,regenerative agriculture,3,1664,0.41262713074684143
+MPNet,regenerative agriculture,7,2242,0.4081251323223114
+MPNet,region,0,243,0.4191032946109772
+MPNet,regional climate messages,0,243,0.5062627196311951
+MPNet,regional climate messages,4,1774,0.5031041502952576
+MPNet,regional climate messages,5,2077,0.48861679434776306
+MPNet,regional climate messages,5,2059,0.4719533920288086
+MPNet,regional climate messages,4,1707,0.46668821573257446
+MPNet,regional sea level change,4,1815,0.44165530800819397
+MPNet,regional sea level change,0,243,0.44106563925743103
+MPNet,regional sea level change,5,2059,0.4382115602493286
+MPNet,regional sea level change,4,1771,0.42831772565841675
+MPNet,regional sea level change,2,1104,0.421889066696167
+MPNet,relative sea level  change,4,1768,0.4469763934612274
+MPNet,relative sea level  change,4,1771,0.41879963874816895
+MPNet,relative sea level  change,4,1814,0.4111135005950928
+MPNet,relative sea level  change,4,1817,0.40866461396217346
+MPNet,relative sea level  change,4,1815,0.40204212069511414
+MPNet,remaining carbon budget,5,2079,0.44214963912963867
+MPNet,renewable energy,3,1646,0.40119513869285583
+MPNet,reporting,4,1707,0.572354793548584
+MPNet,reporting,4,1680,0.5425193309783936
+MPNet,reporting,4,1766,0.5391177535057068
+MPNet,reporting,4,1828,0.5332784056663513
+MPNet,reporting,4,1825,0.5314474105834961
+MPNet,Representative Concentration Pathways,5,2077,0.42859384417533875
+MPNet,Representative Concentration Pathways,4,1825,0.4229539930820465
+MPNet,Representative Concentration Pathways,5,2059,0.42026111483573914
+MPNet,Representative Key Risks,0,292,0.4337559938430786
+MPNet,Representative Key Risks,5,2092,0.42783546447753906
+MPNet,Representative Key Risks,5,2090,0.4126107096672058
+MPNet,Representative Key Risks,5,2093,0.4031003713607788
+MPNet,residual risk,4,1813,0.4536115527153015
+MPNet,residual risk,4,1774,0.4426362216472626
+MPNet,residual risk,0,245,0.4178983271121979
+MPNet,response time or adjustment time,4,1813,0.4119235575199127
+MPNet,restoration,1,962,0.6505017280578613
+MPNet,restoration,0,438,0.4440365433692932
+MPNet,restoration,1,961,0.4433421194553375
+MPNet,restoration,0,568,0.44197261333465576
+MPNet,restoration,0,30,0.42965883016586304
+MPNet,risk,5,2059,0.5790680646896362
+MPNet,risk,4,1813,0.5746703743934631
+MPNet,risk,0,245,0.5678502917289734
+MPNet,risk,5,2092,0.566148579120636
+MPNet,risk,0,243,0.5477485656738281
+MPNet,risk assessment,5,2092,0.5123983025550842
+MPNet,risk assessment,1,827,0.4602784514427185
+MPNet,risk assessment,0,292,0.45041796565055847
+MPNet,risk assessment,5,2100,0.41970062255859375
+MPNet,risk assessment,5,2093,0.4142932891845703
+MPNet,risk framework,4,1707,0.5903668403625488
+MPNet,risk framework,4,1813,0.5539382696151733
+MPNet,risk framework,4,1773,0.538418710231781
+MPNet,risk framework,4,1816,0.5212118029594421
+MPNet,risk framework,4,1774,0.5133969783782959
+MPNet,sea level change,4,1768,0.4976082444190979
+MPNet,sea level change,4,1769,0.4947710633277893
+MPNet,sea level change,4,1815,0.48621314764022827
+MPNet,sea level change,4,1771,0.46185657382011414
+MPNet,sea level change,4,1814,0.45290201902389526
+MPNet,sea level equivalent,4,1768,0.43805357813835144
+MPNet,sea level equivalent,4,1769,0.4209308922290802
+MPNet,sea level equivalent,4,1815,0.4192386269569397
+MPNet,sea level equivalent,4,1772,0.40164583921432495
+MPNet,sea level rise,4,1768,0.5183670520782471
+MPNet,sea level rise,4,1769,0.5127010345458984
+MPNet,sea level rise,4,1815,0.5045503973960876
+MPNet,sea level rise,4,1771,0.48251086473464966
+MPNet,sea level rise,4,1814,0.4671105742454529
+MPNet,semi-arid zone,3,1664,0.43827497959136963
+MPNet,Sendai Framework for Disaster Risk Reduction,2,1173,0.6321248412132263
+MPNet,Sendai Framework for Disaster Risk Reduction,0,245,0.5272762179374695
+MPNet,Sendai Framework for Disaster Risk Reduction,5,2090,0.5026845932006836
+MPNet,Sendai Framework for Disaster Risk Reduction,5,2100,0.496785968542099
+MPNet,Sendai Framework for Disaster Risk Reduction,4,1707,0.490398108959198
+MPNet,sensitivity,4,1813,0.49735093116760254
+MPNet,sensitivity,0,243,0.42871594429016113
+MPNet,sensitivity,4,1774,0.41265544295310974
+MPNet,service provisioning,0,249,0.4551926553249359
+MPNet,service provisioning,3,1550,0.4483662545681
+MPNet,service provisioning,2,1215,0.439932644367218
+MPNet,service provisioning,9,2439,0.43086671829223633
+MPNet,service provisioning,7,2235,0.43064481019973755
+MPNet,settlements,0,240,0.4745657444000244
+MPNet,settlements,0,326,0.45062321424484253
+MPNet,settlements,0,516,0.443795770406723
+MPNet,settlements,0,66,0.42270317673683167
+MPNet,settlements,0,52,0.42140117287635803
+MPNet,shared socio-economic pathways,5,2077,0.49303990602493286
+MPNet,shared socio-economic pathways,4,1828,0.48912498354911804
+MPNet,shared socio-economic pathways,4,1700,0.4533839821815491
+MPNet,shared socio-economic pathways,4,1707,0.4521493911743164
+MPNet,shared socio-economic pathways,4,1775,0.4500957131385803
+MPNet,shifting development pathways,0,243,0.4649210572242737
+MPNet,shifting development pathways,0,240,0.4575595557689667
+MPNet,shifting development pathways,4,1837,0.4530108869075775
+MPNet,shifting development pathways,0,53,0.43213433027267456
+MPNet,shifting development pathways,0,501,0.4306190311908722
+MPNet,shifting development pathways to sustainability,3,1644,0.4641534686088562
+MPNet,shifting development pathways to sustainability,0,243,0.4546290934085846
+MPNet,shifting development pathways to sustainability,4,1837,0.4518522024154663
+MPNet,shifting development pathways to sustainability,4,1854,0.42578381299972534
+MPNet,shifting development pathways to sustainability,4,1681,0.42560768127441406
+MPNet,short-lived climate pollutants,5,2092,0.428248792886734
+MPNet,simple climate model,4,1813,0.41755205392837524
+MPNet,Small Island Developing States,0,215,0.48613718152046204
+MPNet,Small Island Developing States,0,21,0.4691709876060486
+MPNet,Small Island Developing States,4,1681,0.45231950283050537
+MPNet,Small Island Developing States,0,22,0.44917818903923035
+MPNet,Small Island Developing States,0,172,0.43458691239356995
+MPNet,social cost of carbon,5,2092,0.41490286588668823
+MPNet,social cost of carbon,4,1813,0.4031536281108856
+MPNet,social-ecological system,0,501,0.5038478374481201
+MPNet,social-ecological system,0,243,0.4670167863368988
+MPNet,social-ecological system,4,1837,0.4625403583049774
+MPNet,social-ecological system,0,144,0.4604693353176117
+MPNet,social-ecological system,4,1794,0.44305872917175293
+MPNet,social infrastructure,0,132,0.4596777856349945
+MPNet,social infrastructure,5,1866,0.4584009647369385
+MPNet,social infrastructure,3,1433,0.45230600237846375
+MPNet,social infrastructure,0,16,0.42975059151649475
+MPNet,social infrastructure,5,1865,0.4193646013736725
+MPNet,social justice,0,57,0.41578084230422974
+MPNet,social protection,0,77,0.44553133845329285
+MPNet,social protection,0,10,0.42268410325050354
+MPNet,social protection,0,282,0.42152559757232666
+MPNet,social protection,3,1458,0.4212619662284851
+MPNet,social protection,4,1680,0.41172704100608826
+MPNet,soil erosion,1,811,0.48835456371307373
+MPNet,soil erosion,2,1104,0.45212623476982117
+MPNet,soil erosion,1,812,0.41265982389450073
+MPNet,soil erosion,1,829,0.41098856925964355
+MPNet,solar activity,2,1020,0.4054558277130127
+MPNet,solar cycle,2,1020,0.5003842115402222
+MPNet,solar cycle,2,1018,0.4818618893623352
+MPNet,solar cycle,2,1023,0.47201892733573914
+MPNet,solar cycle,2,1007,0.46728816628456116
+MPNet,solar cycle,2,1008,0.4445524215698242
+MPNet,solar energy,5,2076,0.4081926941871643
+MPNet,solution space,4,1707,0.5759069323539734
+MPNet,solution space,4,1773,0.5632111430168152
+MPNet,solution space,4,1770,0.5434671640396118
+MPNet,solution space,4,1774,0.5305670499801636
+MPNet,solution space,4,1775,0.5223620533943176
+MPNet,Southern Ocean,4,1821,0.491725891828537
+MPNet,Southern Ocean,4,1844,0.4836863875389099
+MPNet,Southern Ocean,4,1711,0.46676647663116455
+MPNet,Southern Ocean,4,1827,0.4623819887638092
+MPNet,Southern Ocean,4,1777,0.4582057297229767
+MPNet,storyline,5,2090,0.4183105528354645
+MPNet,stressors,5,2059,0.514345109462738
+MPNet,stressors,5,2090,0.4804401695728302
+MPNet,stressors,5,2092,0.4704807996749878
+MPNet,stressors,4,1813,0.4632621109485626
+MPNet,stressors,0,243,0.4584047496318817
+MPNet,subnational actors,1,843,0.5537314414978027
+MPNet,subnational actors,0,209,0.4896870255470276
+MPNet,subnational actors,5,1993,0.4691077470779419
+MPNet,subnational actors,0,22,0.45373451709747314
+MPNet,subnational actors,0,215,0.4514846205711365
+MPNet,sustainability,0,243,0.48840898275375366
+MPNet,sustainability,0,501,0.47812825441360474
+MPNet,sustainability,4,1854,0.4771372675895691
+MPNet,sustainability,4,1837,0.45351940393447876
+MPNet,sustainability,4,1777,0.44555848836898804
+MPNet,Sustainable Development Goals,4,1681,0.5097575783729553
+MPNet,Sustainable Development Goals,4,1857,0.4776642620563507
+MPNet,Sustainable Development Goals,4,1854,0.47064006328582764
+MPNet,Sustainable Development Goals,4,1858,0.43300774693489075
+MPNet,Sustainable Development Goals,7,2219,0.42828303575515747
+MPNet,sustainable development,4,1837,0.4941922724246979
+MPNet,sustainable development,8,2316,0.47366273403167725
+MPNet,sustainable development,4,1681,0.4655763804912567
+MPNet,sustainable development,4,1854,0.4632638096809387
+MPNet,sustainable development,0,243,0.4553689658641815
+MPNet,sustainable development pathways,4,1707,0.5328147411346436
+MPNet,sustainable development pathways,4,1773,0.5172019600868225
+MPNet,sustainable development pathways,0,243,0.5153920650482178
+MPNet,sustainable development pathways,4,1815,0.5147758722305298
+MPNet,sustainable development pathways,4,1813,0.5145632028579712
+MPNet,sustainable forest management,4,1720,0.49874699115753174
+MPNet,sustainable forest management,4,1781,0.47289323806762695
+MPNet,sustainable forest management,3,1392,0.4717479646205902
+MPNet,sustainable forest management,4,1852,0.46218639612197876
+MPNet,sustainable forest management,0,682,0.45538777112960815
+MPNet,sustainable intensification,3,1664,0.5039692521095276
+MPNet,sustainable intensification,0,243,0.499965637922287
+MPNet,sustainable intensification,0,53,0.42874494194984436
+MPNet,sustainable intensification,0,711,0.4274311065673828
+MPNet,sustainable intensification,3,1440,0.40497711300849915
+MPNet,sustainable land management,0,243,0.45297107100486755
+MPNet,sustainable land management,0,53,0.44817841053009033
+MPNet,sustainable land management,3,1392,0.43981820344924927
+MPNet,sustainable land management,0,106,0.43963146209716797
+MPNet,sustainable land management,1,956,0.43259555101394653
+MPNet,swash,4,1818,0.4129878580570221
+MPNet,Systems of Innovation,3,1433,0.4053437113761902
+MPNet,technical potential,4,1813,0.48652783036231995
+MPNet,technical potential,4,1707,0.48336076736450195
+MPNet,technical potential,0,243,0.4411388039588928
+MPNet,technical potential,4,1828,0.4366469085216522
+MPNet,technical potential,4,1773,0.43619394302368164
+MPNet,thermosteric sea level change,4,1768,0.4224225878715515
+MPNet,thermosteric sea level change,4,1815,0.4191840887069702
+MPNet,thermosteric sea level change,4,1769,0.40088263154029846
+MPNet,total carbon budget,4,1775,0.4647408425807953
+MPNet,total carbon budget,4,1700,0.44999393820762634
+MPNet,total carbon budget,4,1825,0.44882333278656006
+MPNet,total carbon budget,4,1813,0.43921223282814026
+MPNet,total carbon budget,4,1772,0.4123585522174835
+MPNet,total water level,4,1817,0.4740605652332306
+MPNet,total water level,4,1772,0.44560331106185913
+MPNet,total water level,4,1768,0.44480258226394653
+MPNet,total water level,4,1800,0.43464481830596924
+MPNet,total water level,4,1771,0.43189117312431335
+MPNet,traditional biomass,3,1664,0.4747367203235626
+MPNet,transformation,0,243,0.4868626892566681
+MPNet,transformation,0,501,0.4645904004573822
+MPNet,transformation,0,53,0.42784398794174194
+MPNet,transformation,3,1664,0.41798487305641174
+MPNet,transformation pathways,0,243,0.5392130017280579
+MPNet,transformation pathways,3,1644,0.5257742404937744
+MPNet,transformation pathways,3,1664,0.5059923529624939
+MPNet,transformation pathways,5,2077,0.5023967027664185
+MPNet,transformation pathways,4,1813,0.49366283416748047
+MPNet,transformational adaptation,4,1774,0.6219671368598938
+MPNet,transformational adaptation,4,1813,0.5808899402618408
+MPNet,transformational adaptation,0,243,0.5787287354469299
+MPNet,transformational adaptation,4,1815,0.4911499619483948
+MPNet,transformational adaptation,0,244,0.48135697841644287
+MPNet,transformative change,0,243,0.43024957180023193
+MPNet,transient climate response,4,1813,0.4958115518093109
+MPNet,transient climate response,5,2059,0.44360944628715515
+MPNet,transient climate response,0,243,0.40248629450798035
+MPNet,Transient climate response to cumulative CO2 emissions,4,1813,0.46173205971717834
+MPNet,tree rings,5,1964,0.42802125215530396
+MPNet,typological regions,0,326,0.4912283718585968
+MPNet,typological regions,0,243,0.45505788922309875
+MPNet,typological regions,3,1664,0.44517964124679565
+MPNet,typological regions,0,230,0.44134578108787537
+MPNet,typological regions,1,752,0.43166443705558777
+MPNet,United Nations Convention to Combat Desertification,1,856,0.5021436214447021
+MPNet,United Nations Convention to Combat Desertification,4,1773,0.4960711598396301
+MPNet,United Nations Convention to Combat Desertification,4,1772,0.4780638515949249
+MPNet,United Nations Convention to Combat Desertification,4,1766,0.46610724925994873
+MPNet,United Nations Convention to Combat Desertification,4,1700,0.46424779295921326
+MPNet,United Nations Framework Convention on Climate Change,4,1707,0.5407665967941284
+MPNet,United Nations Framework Convention on Climate Change,4,1773,0.5389508605003357
+MPNet,United Nations Framework Convention on Climate Change,4,1772,0.531339168548584
+MPNet,United Nations Framework Convention on Climate Change,4,1813,0.5259312987327576
+MPNet,United Nations Framework Convention on Climate Change,4,1700,0.5084288120269775
+MPNet,Urban Systems,5,1902,0.45811668038368225
+MPNet,Urban Systems,5,1913,0.44688019156455994
+MPNet,Urban Systems,5,1914,0.4399911165237427
+MPNet,Urban Systems,5,1869,0.438789963722229
+MPNet,Urban Systems,3,1440,0.4176371991634369
+MPNet,urban,0,295,0.588493824005127
+MPNet,urban,3,1527,0.5661089420318604
+MPNet,urban,0,240,0.5446724891662598
+MPNet,urban,0,326,0.5418853163719177
+MPNet,urban,6,2209,0.534612238407135
+MPNet,urban and peri-urban agriculture,7,2241,0.48114410042762756
+MPNet,urban and peri-urban agriculture,0,583,0.47129160165786743
+MPNet,urban and peri-urban agriculture,0,295,0.4703071713447571
+MPNet,urban and peri-urban agriculture,0,326,0.4575754404067993
+MPNet,urban and peri-urban agriculture,0,469,0.4456249475479126
+MPNet,urban heat island,5,2077,0.4713965356349945
+MPNet,urban heat island,5,2075,0.4681062698364258
+MPNet,urban heat island,5,2076,0.4506182372570038
+MPNet,urban heat island,5,2088,0.448192298412323
+MPNet,urban heat island,5,2078,0.4284459948539734
+MPNet,urbanisation,0,243,0.6220501661300659
+MPNet,urbanisation,0,240,0.5945711731910706
+MPNet,urbanisation,3,1440,0.5942672491073608
+MPNet,urbanisation,0,295,0.5800805687904358
+MPNet,urbanisation,5,2003,0.5744611620903015
+MPNet,urbanization,0,243,0.5799357891082764
+MPNet,urbanization,3,1664,0.5451933145523071
+MPNet,urbanization,0,716,0.5260295271873474
+MPNet,urbanization,3,1440,0.49647215008735657
+MPNet,urbanization,0,32,0.49105527997016907
+MPNet,values and beliefs,0,273,0.4640781283378601
+MPNet,variable renewable energy,3,1663,0.43386179208755493
+MPNet,variable renewable energy,3,1664,0.4124903976917267
+MPNet,verification,1,788,0.49432462453842163
+MPNet,verification,0,22,0.4532816708087921
+MPNet,verification,5,2142,0.4377503991127014
+MPNet,verification,0,177,0.43416252732276917
+MPNet,verification,0,172,0.43322882056236267
+MPNet,vertical land motion,2,1104,0.5056012868881226
+MPNet,vertical land motion,2,1103,0.4362272322177887
+MPNet,vertical land motion,3,1664,0.4045467674732208
+MPNet,vertical land motion,9,2406,0.402542382478714
+MPNet,vulnerability index,4,1768,0.4609571099281311
+MPNet,vulnerability index,4,1813,0.4527159035205841
+MPNet,vulnerability index,5,2059,0.43262410163879395
+MPNet,water-borne diseases,5,2166,0.4085584282875061
+MPNet,water security,3,1540,0.5086934566497803
+MPNet,water security,5,2167,0.4971166253089905
+MPNet,water security,3,1579,0.4864662289619446
+MPNet,water security,3,1378,0.483646959066391
+MPNet,water security,3,1541,0.4799342453479767
+MPNet,water-use efficiency,3,1664,0.41264578700065613
+MPNet,West African monsoon,4,1838,0.4075106382369995
+MPNet,West African monsoon,4,1772,0.4011615514755249
+MPNet,wetland,3,1662,0.44980207085609436
+MPNet,wind energy,3,1663,0.5534237623214722
+MPNet,wind energy,3,1646,0.4642180800437927
+MPNet,wind energy,3,1645,0.46254023909568787
+MPNet,wind energy,9,2479,0.43091392517089844
+MPNet,wind energy,5,2076,0.4244405925273895
+MPNet,zero emissions commitment,4,1772,0.45478203892707825
+MPNet,zero emissions commitment,4,1775,0.4444282650947571
+MPNet,zero emissions commitment,5,2079,0.44354844093322754
+MPNet,zero emissions commitment,4,1813,0.42965006828308105
+MPNet,zero emissions commitment,3,1644,0.42777472734451294
+MPNet,impact assessment,3,1440,0.5555797219276428
+MPNet,impact assessment,0,243,0.5368309617042542
+MPNet,impact assessment,4,1813,0.5275701284408569
+MPNet,impact assessment,4,1816,0.5060575604438782
+MPNet,impact assessment,5,1958,0.4903677701950073
